@@ -1,0 +1,122 @@
+# smt-1FM
+
+
+
+
+# 12
+3582	bad channel 328
+
+# 13
+3617	polynomial
+
+# 22
+3985	Tsys>2300
+3986	Tsys>2400
+3997	Tsys>800
+3998	Tsys>800
+4009	Tsys>900
+4010	Tsys>900
+4129	Tsys>590
+4130	Tsys>600
+4141	Tsys>600
+4142	Tsys>600
+4153	Tsys>500
+4154	Tsys>600
+4213	?
+4225	?
+4261	?
+4226	bad channel 604
+4238	bad channel 604
+
+# 23
+4165	Tsys>600
+4166	Tsys>600
+4177	Tsys>700
+4178	Tsys>700
+4189	Tsys>900
+4190	Tsys>1000
+4281	?
+4282	bad channel 604
+4293	?
+4294	bad channel 604
+4305	?
+
+# 25
+4386	bad channel 604
+
+#e 26
+4429	? inverse
+4453	?
+4465	?
+
+# 27
+4498	bad channel 604
+4534	bad channel 604
+
+# 28
+4021	Tsys>900
+4022	Tsys>900
+4033	Tsys>900
+4034	Tsys>900
+4045	Tsys>1800
+4046	Tsys>1800
+
+# 48
+5306	bad channel 552
+5318	bad channel 552
+5330	bad channel 552
+
+# 55
+5605	bad channel 150
+
+# 58
+5749	bad channel 150
+
+# 70
+6326	bad channel 432
+
+# 71
+6373	bad channel 458
+
+# 87
+7018	bad channel 548
+
+# 88
+7030	bad channel 396
+e
+# 93
+7305	polynomial
+
+# 95
+7354	bad channel 555
+
+# 103
+7674	bad channel 552
+
+# 108
+7901	ripple negative
+7902	ripple negative
+
+# 109
+7926	ripple
+
+# 111
+8009	order2
+8021	order1
+8057	not sure
+
+# 114
+8154	bad channel 396
+
+# 117
+8249	ripple
+8250	ripple
+8262	ripple
+8274	ripple
+8286	ripple
+8298	ripple
+
+# 118
+8310	ripple
+8334	ripple
+

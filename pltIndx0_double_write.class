@@ -1,0 +1,549 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_pltIndx0.smt
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0.smt
+find;list 
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-48 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-48L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-48 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-48U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-49 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-49L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-49 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-49U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-50 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-50L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-50 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-50U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-51 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-51L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-51 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-51U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-52 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-52L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-52 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-52U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-53 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-53L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-53 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-53U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-54 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-54L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-54 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-54U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-55 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-55L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-55 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-55U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-56 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-56L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-56 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-56U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-57 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-57L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-57 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-57U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-58 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-58L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-58 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-58U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-59 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-59L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-59 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-59U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-60 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-60L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-60 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-60U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-61 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-61L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-61 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-61U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-62 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-62L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-62 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-62U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-63 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-63L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-63 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-63U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-64 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-64L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-64 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-64U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-65 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-65L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-65 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-65U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*L; find;list;
+set source N3628-117 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-117L.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-117 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-117U.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!===========================================
+ 

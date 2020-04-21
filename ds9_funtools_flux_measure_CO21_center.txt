@@ -1,0 +1,28 @@
+# source
+#   data_file:		stdin
+#   arcsec/pixel:	13.3601
+# background
+#   constant_value:	0.000000
+# column units
+#   area:		pixel**2
+#   surf_bri:		cnts/pixel**2
+#   surf_err:		cnts/pixel**2
+#   radii:		pixels
+#   angles:		degrees
+
+# background-subtracted results
+ reg   net_counts     error   background    berror      area  surf_bri  surf_err   radius1   radius2    angle1    angle2
+---- ------------ --------- ------------ --------- --------- --------- --------- --------- --------- --------- ---------
+   1     1256.809    35.452        0.000     0.000    112.00    11.222     0.317     8.725    14.999        NA        NA
+
+
+# source_region(s):
+# physical;ellipse(11.112758,8.9861545,8.724676,4.1171022,14.999237)
+
+# source_data
+ reg       counts    pixels
+---- ------------ ---------
+   1     1256.809       112
+
+
+

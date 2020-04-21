@@ -1,0 +1,11 @@
+taskname           = "importfits"
+fitsimage          =  "co21map.fits"
+imagename          =  "aro_smt_co21map"
+whichrep           =  0
+whichhdu           =  -1
+zeroblanks         =  True
+overwrite          =  False
+defaultaxes        =  False
+defaultaxesvalues    =  []
+beam               =  []
+#importfits(fitsimage="co21map.fits",imagename="aro_smt_co21map",whichrep=0,whichhdu=-1,zeroblanks=True,overwrite=False,defaultaxes=False,defaultaxesvalues=[],beam=[])

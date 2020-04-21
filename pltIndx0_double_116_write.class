@@ -1,0 +1,32 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_pltIndx0.smt
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0.smt
+find;list 
+ 
+!-------------------------------------------
+ 
+set tel SMT-F1M-*U; find;list;
+set source N3628-116 ; find;list;
+ 
+load
+plot /index
+set win /polygon 1 pol_20170810/win_n3628-116.pol
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!===========================================
+ 

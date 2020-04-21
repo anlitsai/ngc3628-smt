@@ -1,0 +1,1080 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBaseline.smt
+file out n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBaseline_ave.smt mul
+set source *
+find;list 
+ 
+!-------------------------------------------
+ 
+set source n3628-01 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-02 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-03 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-04 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-05 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-06 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-07 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-08 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-09 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-10 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-11 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-12 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-13 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-14 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-15 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-16 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-17 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-18 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-19 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-20 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-21 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-22 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-23 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-24 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-25 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-26 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-27 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-28 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-29 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-30 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-31 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-32 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-33 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-34 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-35 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-36 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-37 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-38 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-39 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-40 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-41 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-42 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-43 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-44 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-45 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-46 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-47 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-48 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-49 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-50 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-51 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-52 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-53 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-54 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-55 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-56 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-57 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-58 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-59 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-60 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-61 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-62 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-63 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-64 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-65 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-66 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-67 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-68 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-69 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-70 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-71 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-72 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-73 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-74 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-75 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-76 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-77 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-78 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-79 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-80 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-81 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-82 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-83 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-84 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-85 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-86 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-87 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-88 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-89 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-90 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-91 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-92 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-93 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-94 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-95 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-96 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-97 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-98 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-99 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-100 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-101 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-102 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-103 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-104 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-105 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-106 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-107 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-108 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-109 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-110 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-111 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-112 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-113 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-114 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-115 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-116 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-117 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!-------------------------------------------
+ 
+set source n3628-118 ;find;
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+write; 
+ 
+ 
+!===========================================
+ 

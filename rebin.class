@@ -1,0 +1,30 @@
+!-------------------------------------------
+ 
+set format brief
+set mod x auto
+set mod y auto
+set unit v f
+ 
+set source *
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBase_ave_base_rebin.smt
+find;list 
+ 
+ 
+ 
+for i 1 to found 
+  get i
+  plot
+  analyse\resample 261 1 200 5 velocity
+  plot
+  write
+next
+ 
+ 
+!===========================================
+set source *;find;list 
+ 
+fits write n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBase_ave_base_rebin.fits /mode index
+ 

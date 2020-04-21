@@ -1,0 +1,24 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBase_ave.smt
+set source * 
+find;list 
+ 
+!-------------------------------------------
+ 
+for i 1 to found 
+  get next
+  plot; pop
+next
+ 
+!===========================================
+ 

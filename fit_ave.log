@@ -1,0 +1,2163 @@
+LAS> get 1;p
+I-GET,  Observation 1; Vers 1 Scan 521
+LAS> set win
+  WINDOW #1 (low) : 517.5
+  WINDOW #1 (up ) : 1142.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.602E-03 area:  68.9     v0:  833.7     width: 199.0
+LAS> p
+LAS> w  
+I-WRITE,  Observation #1;2 successfully written
+LAS> get 2;p
+I-GET,  Observation 2; Vers 1 Scan 524
+LAS> set win
+  WINDOW #1 (low) : 569.7
+  WINDOW #1 (up ) : 1039.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.022E-02 area:  48.5     v0:  789.8     width: 177.5
+LAS> sw;
+LAS> p   
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.010E-02 area:  47.4     v0:  790.7     width: 175.1
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.016E-02 area:  47.6     v0:  789.9     width: 176.1
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.022E-02 area:  48.5     v0:  789.8     width: 177.5
+LAS> p
+LAS> w
+I-WRITE,  Observation #2;2 successfully written
+LAS> get 3;p
+I-GET,  Observation 3; Vers 1 Scan 527
+LAS> set win
+  WINDOW #1 (low) : 512.9
+  WINDOW #1 (up ) : 994.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.320E-03 area:  30.3     v0:  748.8     width: 144.6
+LAS> sw;p  
+LAS> base 3 /p 
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.185E-03 area:  29.6     v0:  750.0     width: 143.5
+LAS> sw;bas  
+I-POLYNO,  degree:   1 rms: 9.320E-03 area:  30.3     v0:  748.8     width: 144.6
+LAS> get 3 ;p
+I-GET,  Observation 3; Vers 1 Scan 527
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.320E-03 area:  30.3     v0:  748.8     width: 144.6
+LAS> p
+LAS> w
+I-WRITE,  Observation #3;2 successfully written
+LAS> get 4 /p
+E-PARSE,  No options allowed for command GET
+LAS> get 4 ;p
+I-GET,  Observation 4; Vers 1 Scan 530
+LAS> set win
+  WINDOW #1 (low) : 558.4
+  WINDOW #1 (up ) : 903.6
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.674E-02 area:  19.4     v0:  723.0     width: 132.5
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 508.4
+  WINDOW #1 (up ) : 1046.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.696E-02 area:  19.8     v0:  721.0     width: 136.0
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.687E-02 area:  22.9     v0:  722.2     width: 141.6
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.678E-02 area:  20.3     v0:  725.7     width: 134.8
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.687E-02 area:  22.9     v0:  722.2     width: 141.6
+LAS> sw;p
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.687E-02 area:  22.9     v0:  722.2     width: 141.6
+LAS> get 4 /p
+E-PARSE,  No options allowed for command GET
+LAS> get 4 ;p
+I-GET,  Observation 4; Vers 1 Scan 530
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.687E-02 area:  22.9     v0:  722.2     width: 141.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.678E-02 area:  20.3     v0:  725.7     width: 134.8
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.687E-02 area:  22.9     v0:  722.2     width: 141.6
+LAS> p
+LAS> w
+I-WRITE,  Observation #4;2 successfully written
+LAS> get 5;p
+I-GET,  Observation 5; Vers 1 Scan 531
+LAS> set win
+  WINDOW #1 (low) : 463.0
+  WINDOW #1 (up ) : 1010.3
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.770E-03 area:  19.0     v0:  737.5     width: 146.5
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.751E-03 area:  18.2     v0:  736.9     width: 144.3
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 9.789E-03 area:  19.6     v0:  737.6     width: 147.8
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.770E-03 area:  19.0     v0:  737.5     width: 146.5
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 469.8
+  WINDOW #1 (up ) : 1112.6
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.549E-03 area:  20.2     v0:  738.2     width: 152.4
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.548E-03 area:  20.6     v0:  738.5     width: 156.0
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.547E-03 area:  20.9     v0:  738.5     width: 156.6
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.575E-03 area:  20.7     v0:  737.5     width: 153.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #5;2 successfully written
+LAS> get 6 ;p
+I-GET,  Observation 6; Vers 1 Scan 534
+LAS> set win
+  WINDOW #1 (low) : 492.5
+  WINDOW #1 (up ) : 1096.7
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.912E-03 area:  32.2     v0:  769.5     width: 165.7
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.756E-03 area:  31.3     v0:  771.1     width: 163.2
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.756E-03 area:  31.1     v0:  770.8     width: 162.5
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.725E-03 area:  29.7     v0:  771.9     width: 156.9
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 9.709E-03 area:  26.9     v0:  769.5     width: 147.2
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.756E-03 area:  31.3     v0:  771.1     width: 163.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #6;2 successfully written
+
+LAS> get 7;p
+I-GET,  Observation 7; Vers 1 Scan 537
+LAS> set win
+  WINDOW #1 (low) : 556.1
+  WINDOW #1 (up ) : 1155.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.445E-03 area:  46.2     v0:  827.5     width: 193.0
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.447E-03 area:  46.1     v0:  827.6     width: 192.9
+LAS> p
+LAS> w
+I-WRITE,  Observation #7;2 successfully written
+
+LAS> get 8 ;p
+I-GET,  Observation 8; Vers 1 Scan 540
+LAS> set win
+  WINDOW #1 (low) : 531.1
+  WINDOW #1 (up ) : 1183.0
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.304E-03 area:  40.7     v0:  868.5     width: 182.6
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.300E-03 area:  41.1     v0:  868.4     width: 184.8
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.295E-03 area:  41.2     v0:  868.8     width: 185.7
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.286E-03 area:  39.7     v0:  868.6     width: 180.0
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.251E-03 area:  40.4     v0:  870.7     width: 183.8
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.304E-03 area:  40.7     v0:  868.5     width: 182.6
+LAS> p
+LAS> w
+I-WRITE,  Observation #8;2 successfully written
+
+LAS> get 9;p
+I-GET,  Observation 9; Vers 1 Scan 547
+LAS> set win
+  WINDOW #1 (low) : 615.1
+  WINDOW #1 (up ) : 1219.3
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.614E-03 area:  22.2     v0:  913.6     width: 147.9
+LAS> sw;pbase 2 /p
+E-PARSE,  Unknown command PBASE
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.720E-03 area:  21.0     v0:  908.9     width: 134.1
+LAS> sw;pbase
+E-PARSE,  Unknown command PBASE
+LAS> get 9;p
+I-GET,  Observation 9; Vers 1 Scan 547
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.614E-03 area:  22.2     v0:  913.6     width: 147.9
+LAS> p
+LAS> sw;p
+LAS> set win;4 /p
+E-PARSE,  Unknown command 4
+LAS> set win
+  WINDOW #1 (low) : 594.7
+  WINDOW #1 (up ) : 1214.8
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.673E-03 area:  22.0     v0:  913.3     width: 146.7
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.765E-03 area:  20.8     v0:  909.4     width: 131.6
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.673E-03 area:  22.0     v0:  913.3     width: 146.7
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.668E-03 area:  21.2     v0:  913.4     width: 140.5
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.668E-03 area:  21.2     v0:  913.4     width: 140.5
+LAS> sw;base 3 p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.673E-03 area:  22.0     v0:  913.3     width: 146.7
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.673E-03 area:  22.0     v0:  913.3     width: 146.7
+LAS> p
+LAS> w
+I-WRITE,  Observation #9;2 successfully written
+LAS> get 10
+I-GET,  Observation 10; Vers 1 Scan 550
+LAS> p
+LAS> set win
+  WINDOW #1 (low) : 787.8
+  WINDOW #1 (up ) : 1207.9
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.564E-03 area:  8.92     v0:  932.8     width: 121.0
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 8.868E-03 area:  7.27     v0:  933.8     width: 118.5
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 8.853E-03 area:  6.47     v0:  927.6     width: 98.39
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 8.737E-03 area:  6.78     v0:  935.1     width: 120.3
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 8.734E-03 area:  6.20     v0:  933.0     width: 113.4
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 8.728E-03 area:  5.51     v0:  927.4     width: 93.83
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.564E-03 area:  8.92     v0:  932.8     width: 121.0
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 592.4
+  WINDOW #1 (up ) : 1230.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.724E-03 area:  14.4     v0:  935.2     width: 177.8
+LAS> p
+LAS> w
+I-WRITE,  Observation #10;2 successfully written
+LAS> get 11;p
+I-GET,  Observation 11; Vers 1 Scan 553
+LAS> set win
+  WINDOW #1 (low) : 774.1
+  WINDOW #1 (up ) : 1142.1
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 9.217E-03 area:  16.9     v0:  958.3     width: 138.6
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 8.767E-03 area:  15.7     v0:  959.8     width: 138.3
+LAS> sw;bae 7 /p
+E-PARSE,  Unknown command BAE
+LAS> base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 8.703E-03 area:  17.6     v0:  962.6     width: 142.2
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 8.703E-03 area:  17.6     v0:  962.6     width: 142.2
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   8 rms: 8.694E-03 area:  17.5     v0:  962.0     width: 141.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 8.703E-03 area:  17.6     v0:  962.6     width: 142.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #11;2 successfully written
+LAS> get 12;
+I-GET,  Observation 12; Vers 1 Scan 556
+LAS> pl
+LAS> set win
+  WINDOW #1 (low) : 780.9
+  WINDOW #1 (up ) : 1178.4
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 9.932E-03 area:  22.2     v0:  936.7     width: 144.3
+LAS> sw;pbase 2 /p
+E-PARSE,  Unknown command PBASE
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.001E-02 area:  21.4     v0:  935.1     width: 141.7
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.025E-02 area:  22.6     v0:  935.9     width: 145.0
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 687.8
+  WINDOW #1 (up ) : 1255.6
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.701E-03 area:  23.0     v0:  937.5     width: 148.9
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.536E-03 area:  24.7     v0:  942.1     width: 154.9
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.536E-03 area:  24.7     v0:  942.1     width: 154.9
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.509E-03 area:  19.8     v0:  936.2     width: 142.1
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.536E-03 area:  24.7     v0:  942.1     width: 154.9
+LAS> p
+LAS> w
+I-WRITE,  Observation #12;2 successfully written
+LAS> get 13;p
+I-GET,  Observation 13; Vers 1 Scan 559
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 1253.4
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.923E-03 area:  41.7     v0:  903.9     width: 168.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 8.886E-03 area:  45.9     v0:  904.6     width: 185.2
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 8.886E-03 area:  45.9     v0:  904.6     width: 185.2
+LAS> sw;pbase 7 /p
+E-PARSE,  Unknown command PBASE
+LAS> base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 8.859E-03 area:  39.0     v0:  901.3     width: 161.4
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   9 rms: 8.855E-03 area:  28.1     v0:  897.1     width: 112.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 8.886E-03 area:  45.9     v0:  904.6     width: 185.2
+LAS> sw;p
+LAS> base  5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 8.886E-03 area:  45.9     v0:  904.6     width: 185.2
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> sw;p
+LAS> base  6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 8.878E-03 area:  47.7     v0:  904.1     width: 190.6
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 8.859E-03 area:  39.3     v0:  900.8     width: 162.8
+LAS> p
+LAS> w
+I-WRITE,  Observation #13;2 successfully written
+LAS> get 14;p 
+I-GET,  Observation 14; Vers 1 Scan 565
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 1239.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.058E-03 area:  44.7     v0:  879.5     width: 172.5
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.023E-03 area:  41.8     v0:  880.2     width: 165.3
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 8.997E-03 area:  43.9     v0:  882.9     width: 167.0
+LAS> sw;p
+LAS> dra wi
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.121E-03 area:  45.9     v0:  879.1     width: 174.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #14;2 successfully written
+LAS> get 15;p
+I-GET,  Observation 15; Vers 1 Scan 568
+LAS> set win
+  WINDOW #1 (low) : 578.8
+  WINDOW #1 (up ) : 1123.9
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.048E-02 area:  53.0     v0:  840.5     width: 196.1
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 435.7
+  WINDOW #1 (up ) : 1180.7
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.051E-02 area:  55.6     v0:  839.3     width: 198.7
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.038E-02 area:  65.1     v0:  833.6     width: 224.9
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 1.039E-02 area:  63.5     v0:  837.0     width: 217.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.038E-02 area:  65.1     v0:  833.6     width: 224.9
+LAS> sw;bas 6 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   6 rms: 1.037E-02 area:  58.7     v0:  836.3     width: 207.6
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.037E-02 area:  62.7     v0:  829.6     width: 222.7
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  7 would be even better
+I-POLYNO,  degree:   8 rms: 1.035E-02 area:  36.2     v0:  839.4     width: 177.0
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  8 would be even better
+I-POLYNO,  degree:   9 rms: 1.035E-02 area:  42.6     v0:  833.9     width: 188.5
+LAS> base 10 /p
+I-POLYNO,  Degree  9 would be even better
+I-POLYNO,  degree:  10 rms: 1.035E-02 area:  61.5     v0:  826.4     width: 220.7
+LAS> sw;p
+LAS> get 15;p
+I-GET,  Observation 15; Vers 1 Scan 568
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 1135.3
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  52.4     v0:  842.7     width: 195.3
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.014E-02 area:  44.4     v0:  842.8     width: 187.1
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.007E-02 area:  46.5     v0:  845.5     width: 189.1
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.014E-02 area:  44.4     v0:  842.8     width: 187.1
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.007E-02 area:  46.5     v0:  845.5     width: 189.1
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  52.4     v0:  842.7     width: 195.3
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  52.4     v0:  842.7     width: 195.3
+LAS> p
+LAS> sw;p
+LAS> base 11;p
+I-POLYNO,  Degree  8 would be even better
+I-POLYNO,  degree:  11 rms: 1.001E-02 area:  58.2     v0:  851.7     width: 201.4
+LAS> get 15;p
+I-GET,  Observation 15; Vers 1 Scan 568
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.007E-02 area:  46.5     v0:  845.5     width: 189.1
+LAS> sw; base 8 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 1.005E-02 area:  42.0     v0:  845.6     width: 184.6
+LAS> sw; base 6 /p 
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.014E-02 area:  44.4     v0:  842.8     width: 187.1
+LAS> sw; base 7 /p 
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.007E-02 area:  46.5     v0:  845.5     width: 189.1
+LAS> sw; base 5 /p 
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  52.4     v0:  842.7     width: 195.3
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  52.4     v0:  842.7     width: 195.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #15;2 successfully written
+LAS> get 16;p
+I-GET,  Observation 16; Vers 1 Scan 571
+LAS> set win
+  WINDOW #1 (low) : 476.6
+  WINDOW #1 (up ) : 1194.3
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 9.386E-03 area:  39.9     v0:  797.8     width: 189.3
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.314E-03 area:  45.1     v0:  801.6     width: 204.3
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.320E-03 area:  45.2     v0:  800.2     width: 203.3
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.314E-03 area:  45.1     v0:  801.6     width: 204.3
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   6 rms: 9.301E-03 area:  38.7     v0:  797.6     width: 186.3
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.314E-03 area:  45.1     v0:  801.6     width: 204.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #16;2 successfully written
+LAS> get 17;p
+I-GET,  Observation 17; Vers 1 Scan 574
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 1089.8
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.562E-03 area:  20.4     v0:  752.7     width: 140.3
+LAS> sw;
+LAS> p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.552E-03 area:  19.3     v0:  753.6     width: 137.8
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.547E-03 area:  19.8     v0:  752.5     width: 139.9
+LAS> sw ; base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 9.532E-03 area:  22.4     v0:  752.8     width: 146.1
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.521E-03 area:  20.3     v0:  754.6     width: 138.7
+LAS> get 17;p
+I-GET,  Observation 17; Vers 1 Scan 574
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.547E-03 area:  19.8     v0:  752.5     width: 139.9
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 9.532E-03 area:  22.4     v0:  752.8     width: 146.1
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.521E-03 area:  20.3     v0:  754.6     width: 138.7
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 9.532E-03 area:  22.4     v0:  752.8     width: 146.1
+LAS> p
+LAS> w
+I-WRITE,  Observation #17;2 successfully written
+LAS> get 18;p
+I-GET,  Observation 18; Vers 1 Scan 577
+LAS> set win
+  WINDOW #1 (low) : 419.8
+  WINDOW #1 (up ) : 1096.7
+LAS> base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.021E-03 area:  7.31     v0:  728.1     width: 28.31
+LAS> sw;   
+LAS> p
+LAS> set win
+  WINDOW #1 (low) : 435.7
+  WINDOW #1 (up ) : 958.1
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.366E-03 area:  11.1     v0:  733.4     width: 120.6
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 449.3
+  WINDOW #1 (up ) : 878.6
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 9.419E-03 area:  13.2     v0:  731.9     width: 127.8
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.281E-03 area:  15.9     v0:  723.8     width: 148.9
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 9.268E-03 area:  15.6     v0:  725.8     width: 147.0
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 472.1
+  WINDOW #1 (up ) : 935.4
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.183E-03 area:  15.4     v0:  724.0     width: 145.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   6 rms: 9.176E-03 area:  15.5     v0:  725.3     width: 146.8
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 9.095E-03 area:  19.9     v0:  717.0     width: 168.1
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.183E-03 area:  15.4     v0:  724.0     width: 145.4
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 9.183E-03 area:  15.4     v0:  724.0     width: 145.4
+LAS> p
+LAS> w
+I-WRITE,  Observation #18;2 successfully written
+LAS> get 19;p
+I-GET,  Observation 19; Vers 1 Scan 588
+LAS> pl
+LAS> set win
+  WINDOW #1 (low) : 585.6
+  WINDOW #1 (up ) : 855.9
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.002E-02 area:  13.4     v0:  709.8     width: 133.2
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 9.986E-03 area:  13.0     v0:  710.0     width: 132.5
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 9.947E-03 area:  12.7     v0:  709.0     width: 132.1
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 9.945E-03 area:  12.6     v0:  709.2     width: 132.2
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.021E-02 area:  14.4     v0:  711.3     width: 136.0
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 453.9
+  WINDOW #1 (up ) : 894.5
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 9.898E-03 area:  13.7     v0:  710.0     width: 133.8
+LAS> sw;pbase 5 /p
+E-PARSE,  Unknown command PBASE
+LAS> base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 9.868E-03 area:  12.3     v0:  710.7     width: 131.6
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 9.818E-03 area:  12.8     v0:  708.8     width: 132.6
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.004E-02 area:  15.0     v0:  710.9     width: 136.6
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 9.937E-03 area:  14.2     v0:  710.7     width: 135.0
+LAS> sw;pase 3 /p
+E-PARSE,  Unknown command PASE
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.936E-03 area:  14.1     v0:  710.8     width: 135.0
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 9.898E-03 area:  13.7     v0:  710.0     width: 133.8
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 9.868E-03 area:  12.3     v0:  710.7     width: 131.6
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.936E-03 area:  14.1     v0:  710.8     width: 135.0
+LAS> sw;base 2 /p
+I-POLYNO,  degree:   2 rms: 9.937E-03 area:  14.2     v0:  710.7     width: 135.0
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 9.937E-03 area:  14.2     v0:  710.7     width: 135.0
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.004E-02 area:  15.0     v0:  710.9     width: 136.6
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.004E-02 area:  15.0     v0:  710.9     width: 136.6
+LAS> p
+LAS> w
+I-WRITE,  Observation #19;2 successfully written
+LAS> get 20
+I-GET,  Observation 20; Vers 1 Scan 591
+LAS> pl
+LAS> set win
+  WINDOW #1 (low) : 474.3
+  WINDOW #1 (up ) : 899.1
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.042E-02 area:  7.93     v0:  715.9     width: 127.6
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.028E-02 area:  7.08     v0:  715.9     width: 127.8
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 1.021E-02 area:  9.09     v0:  708.6     width: 134.4
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 1.021E-02 area:  9.09     v0:  708.6     width: 134.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.021E-02 area:  9.10     v0:  708.5     width: 134.4
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  11.2     v0:  704.8     width: 139.4
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.050E-02 area:  8.96     v0:  712.8     width: 134.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   5 rms: 1.021E-02 area:  9.09     v0:  708.6     width: 134.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.021E-02 area:  9.10     v0:  708.5     width: 134.4
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  11.2     v0:  704.8     width: 139.4
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.050E-02 area:  8.96     v0:  712.8     width: 134.5
+LAS> sw;p
+LAS> base 6 /p 
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.021E-02 area:  9.10     v0:  708.5     width: 134.4
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  11.2     v0:  704.8     width: 139.4
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  11.2     v0:  704.8     width: 139.4
+LAS> p
+LAS> w
+I-WRITE,  Observation #20;2 successfully written
+LAS> get 21;pl
+I-GET,  Observation 21; Vers 1 Scan 594
+LAS> set win
+  WINDOW #1 (low) : 490.2
+  WINDOW #1 (up ) : 833.2
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.136E-02 area:  1.82     v0:  662.7     width: 206.6
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.135E-02 area:  1.72     v0:  662.1     width: 206.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.133E-02 area:  2.26     v0:  681.4     width: 185.0
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.133E-02 area:  2.36     v0:  680.8     width: 185.3
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.128E-02 area:  3.71     v0:  687.8     width: 157.8
+LAS> sw;base 8/p
+E-SIC_KE,  Invalid character in keyword 8/p
+LAS> sw;p
+LAS> get 21;p
+I-GET,  Observation 21; Vers 1 Scan 594
+LAS> set win
+  WINDOW #1 (low) : 503.9
+  WINDOW #1 (up ) : 808.2
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.131E-02 area:  2.19     v0:  662.1     width: 206.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.128E-02 area:  2.81     v0:  701.6     width: 184.1
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.131E-02 area:  2.19     v0:  662.1     width: 206.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.128E-02 area:  2.81     v0:  701.6     width: 184.1
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.131E-02 area:  2.19     v0:  662.1     width: 206.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.128E-02 area:  2.81     v0:  701.6     width: 184.1
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.127E-02 area:  2.93     v0:  694.5     width: 169.7
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.118E-02 area:  2.99     v0:  712.0     width: 157.9
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.118E-02 area:  2.99     v0:  712.0     width: 157.9
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> sw;p
+LAS> base 9 /p
+I-POLYNO,  Degree  7 would be even better
+I-POLYNO,  degree:   9 rms: 1.115E-02 area:  2.45     v0:  701.6     width: 184.3
+LAS> sw;base 10/p
+E-SIC_KE,  Invalid character in keyword 10/p
+LAS> sw;base 10 /p 
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:  10 rms: 1.115E-02 area:  1.92     v0:  662.6     width: 206.6
+LAS> sw;p
+LAS> get 21
+I-GET,  Observation 21; Vers 1 Scan 594
+LAS> pl
+LAS> base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.118E-02 area:  2.99     v0:  712.0     width: 157.9
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.122E-02 area:  3.98     v0:  687.6     width: 157.8
+LAS> p
+LAS> w
+I-WRITE,  Observation #21;2 successfully written
+LAS> get 22
+I-GET,  Observation 22; Vers 1 Scan 643
+LAS> pl
+LAS> set win
+  WINDOW #1 (low) : 608.3
+  WINDOW #1 (up ) : 849.1
+  WINDOW #2 (low) : 390.3
+  WINDOW #2 (up ) : 503.9
+LAS> dra win
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.143E-03 area:  1.66     v0:  737.9     width: 98.00
+LAS> sw;base 5 /p
+I-POLYNO,  degree:   5 rms: 7.134E-03 area:  1.79     v0:  732.6     width: 105.9
+LAS> sw;base 6 /p
+I-POLYNO,  degree:   6 rms: 7.134E-03 area:  1.80     v0:  732.8     width: 101.5
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  6 would be even better
+I-POLYNO,  degree:   7 rms: 7.105E-03 area:  2.06     v0:  732.8     width: 90.41
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 7.093E-03 area:  2.12     v0:  734.1     width: 88.01
+LAS> ;p
+LAS> get 22;p
+I-GET,  Observation 22; Vers 1 Scan 643
+LAS> set win
+  WINDOW #1 (low) : 313.1
+  WINDOW #1 (up ) : 519.8
+  WINDOW #2 (low) : 651.5
+  WINDOW #2 (up ) : 840.0
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.178E-03 area:  2.02     v0:  750.4     width: 52.43
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 317.6
+  WINDOW #1 (up ) : 517.5
+  WINDOW #2 (low) : 651.5
+  WINDOW #2 (up ) : 835.5
+  WINDOW #3 (low) : 992.2
+  WINDOW #3 (up ) : 1187.5
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.147E-03 area:  2.80     v0:  770.7     width: 228.3
+LAS> sw;base 5 /p
+I-POLYNO,  degree:   5 rms: 7.105E-03 area:  3.06     v0:  790.0     width: 248.3
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  degree:   5 rms: 7.105E-03 area:  3.06     v0:  790.0     width: 248.3
+LAS> sw;base 6 /p
+I-POLYNO,  degree:   6 rms: 7.099E-03 area:  3.13     v0:  757.0     width: 343.8
+LAS> sw;base 7 /p 
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 7.085E-03 area:  3.36     v0:  728.8     width: 460.3
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 7.050E-03 area:  3.52     v0:  688.8     width: 479.8
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  6 would be even better
+I-POLYNO,  degree:   9 rms: 7.049E-03 area:  3.60     v0:  695.7     width: 458.2
+LAS> sw;base 10 /p
+I-POLYNO,  Degree  7 would be even better
+I-POLYNO,  degree:  10 rms: 7.043E-03 area:  3.61     v0:  636.0     width: 516.9
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  degree:   5 rms: 7.105E-03 area:  3.06     v0:  790.0     width: 248.3
+LAS> sw;base 6 /p
+I-POLYNO,  degree:   6 rms: 7.099E-03 area:  3.13     v0:  757.0     width: 343.8
+LAS> sw;base 7 /p 
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 7.085E-03 area:  3.36     v0:  728.8     width: 460.3
+LAS> sw;p
+LAS> get base 4 /p
+E-PARSE,  No options allowed for command GET
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.147E-03 area:  2.80     v0:  770.7     width: 228.3
+LAS> sw;base 5 /p
+I-POLYNO,  degree:   5 rms: 7.105E-03 area:  3.06     v0:  790.0     width: 248.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #22;2 successfully written
+LAS> get 23;p
+I-GET,  Observation 23; Vers 1 Scan 648
+LAS> set win
+  WINDOW #1 (low) : 494.8
+  WINDOW #1 (up ) : 933.1
+  WINDOW #2 (low) : 1292.0
+  WINDOW #2 (up ) : 1435.1
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.499E-03 area:  5.03     v0:  750.3     width: 355.6
+LAS> sw;base 3 /p
+I-POLYNO,  degree:   3 rms: 7.641E-03 area:  5.94     v0:  728.6     width: 216.6
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 7.641E-03 area:  5.94     v0:  728.6     width: 216.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.499E-03 area:  5.16     v0:  751.5     width: 350.9
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 7.499E-03 area:  5.03     v0:  750.3     width: 355.6
+LAS> sw;
+LAS> dra win
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 7.444E-03 area:  7.48     v0:  717.8     width: 234.5
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 7.444E-03 area:  7.48     v0:  717.8     width: 234.5
+LAS> sw;bae 6 /p
+E-PARSE,  Unknown command BAE
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 7.499E-03 area:  5.09     v0:  749.7     width: 352.3
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   8 rms: 7.375E-03 area:  7.19     v0:  731.5     width: 231.2
+LAS> sw;p
+LAS> base /8 ;p
+E-PARSE,  Unknown option /8 for command  BASE
+LAS> base 8 /p;
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   8 rms: 7.375E-03 area:  7.19     v0:  731.5     width: 231.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #23;2 successfully written
+LAS> get 24;p
+I-GET,  Observation 24; Vers 1 Scan 652
+LAS> set win
+  WINDOW #1 (low) : 601.5
+  WINDOW #1 (up ) : 939.9
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 9.047E-03 area:  5.96     v0:  755.4     width: 93.24
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 8.999E-03 area:  5.48     v0:  758.5     width: 82.48
+LAS> sw;base 6 /p
+I-POLYNO,  degree:   6 rms: 8.992E-03 area:  5.17     v0:  756.6     width: 83.43
+LAS> sw;p
+LAS> base 3/p
+E-SIC_KE,  Invalid character in keyword 3/p
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 9.071E-03 area:  5.53     v0:  754.9     width: 91.51
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 9.047E-03 area:  5.96     v0:  755.4     width: 93.24
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 9.047E-03 area:  5.96     v0:  755.4     width: 93.24
+LAS> p
+LAS> w
+I-WRITE,  Observation #24;2 successfully written
+LAS> get 25;p
+I-GET,  Observation 25; Vers 1 Scan 657
+LAS> set win
+  WINDOW #1 (low) : 492.5
+  WINDOW #1 (up ) : 1060.3
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.761E-03 area:  9.21     v0:  810.3     width: 177.8
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.760E-03 area:  9.50     v0:  810.6     width: 177.0
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 8.758E-03 area:  9.12     v0:  810.7     width: 177.7
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.760E-03 area:  9.50     v0:  810.6     width: 177.0
+LAS> p
+LAS> w
+I-WRITE,  Observation #25;2 successfully written
+LAS> get 26;p
+I-GET,  Observation 26; Vers 1 Scan 660
+LAS> set win
+  WINDOW #1 (low) : 599.2
+  WINDOW #1 (up ) : 1044.4
+LAS> baee 3 /p
+E-PARSE,  Unknown command BAEE
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.788E-03 area:  7.08     v0:  864.9     width: 119.4
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.782E-03 area:  7.49     v0:  864.2     width: 149.0
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.782E-03 area:  7.49     v0:  864.2     width: 149.0
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 8.714E-03 area:  7.79     v0:  848.4     width: 162.5
+LAS> sw;p
+LAS> get 26;p
+I-GET,  Observation 26; Vers 1 Scan 660
+LAS> base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 8.685E-03 area:  6.22     v0:  855.6     width: 125.4
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 8.714E-03 area:  7.79     v0:  848.4     width: 162.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 8.714E-03 area:  7.79     v0:  848.4     width: 162.5
+LAS> p
+LAS> w
+I-WRITE,  Observation #26;2 successfully written
+LAS> get 27;p
+I-GET,  Observation 27; Vers 1 Scan 667
+LAS> set win
+  WINDOW #1 (low) : 585.6
+  WINDOW #1 (up ) : 1135.3
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.500E-03 area:  7.98     v0:  897.4     width: 137.8
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.482E-03 area:  9.09     v0:  889.7     width: 160.4
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.482E-03 area:  9.09     v0:  889.7     width: 160.4
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.232E-03 area:  10.1     v0:  899.7     width: 169.7
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.232E-03 area:  10.1     v0:  899.7     width: 169.7
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.482E-03 area:  9.09     v0:  889.7     width: 160.4
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.232E-03 area:  10.1     v0:  899.7     width: 169.7
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 7.231E-03 area:  9.57     v0:  904.9     width: 159.4
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 7.172E-03 area:  8.12     v0:  896.4     width: 148.0
+LAS> sw;p    
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.232E-03 area:  10.1     v0:  899.7     width: 169.7
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 7.231E-03 area:  9.57     v0:  904.9     width: 159.4
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.232E-03 area:  10.1     v0:  899.7     width: 169.7
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.482E-03 area:  9.09     v0:  889.7     width: 160.4
+LAS> sw ;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.482E-03 area:  9.09     v0:  889.7     width: 160.4
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 578.8
+  WINDOW #1 (up ) : 1230.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.280E-03 area:  7.32     v0:  891.6     width: 136.5
+LAS> sw;p
+LAS> get 27;p
+I-GET,  Observation 27; Vers 1 Scan 667
+LAS> get 4 /p
+E-PARSE,  No options allowed for command GET
+LAS> get 27;p
+I-GET,  Observation 27; Vers 1 Scan 667
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.260E-03 area:  5.78     v0:  896.3     width: 113.4
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.059E-03 area:  11.2     v0:  909.5     width: 183.3
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   6 rms: 7.059E-03 area:  11.2     v0:  910.0     width: 182.4
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.260E-03 area:  5.78     v0:  896.3     width: 113.4
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 617.4
+  WINDOW #1 (up ) : 1130.7
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.464E-03 area:  8.30     v0:  895.0     width: 139.3
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.464E-03 area:  8.30     v0:  895.0     width: 139.3
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 7.242E-03 area:  9.67     v0:  901.1     width: 161.8
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.464E-03 area:  8.30     v0:  895.0     width: 139.3
+LAS> p
+LAS> w
+I-WRITE,  Observation #27;2 successfully written
+LAS> get 28
+I-GET,  Observation 28; Vers 1 Scan 671
+LAS> pl
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.041E-02 area:  22.7     v0:  909.9     width: 125.1
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.024E-02 area:  22.6     v0:  912.0     width: 125.2
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.023E-02 area:  21.8     v0:  911.8     width: 120.4
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 726.4
+  WINDOW #1 (up ) : 1114.8
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.035E-02 area:  20.9     v0:  911.7     width: 119.8
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.023E-02 area:  19.7     v0:  912.6     width: 113.1
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.020E-02 area:  20.4     v0:  913.0     width: 117.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.014E-02 area:  19.2     v0:  913.6     width: 113.8
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.035E-02 area:  20.9     v0:  911.7     width: 119.8
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.072E-02 area:  21.3     v0:  910.8     width: 120.6
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.072E-02 area:  21.3     v0:  910.8     width: 120.6
+LAS> p
+LAS> w
+I-WRITE,  Observation #28;2 successfully written
+LAS> get 29;p
+I-GET,  Observation 29; Vers 1 Scan 673
+LAS> set win
+  WINDOW #1 (low) : 792.3
+  WINDOW #1 (up ) : 1183.0
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.056E-02 area:  13.4     v0:  937.5     width: 124.7
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.033E-02 area:  12.4     v0:  936.2     width: 118.1
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.059E-02 area:  12.9     v0:  934.6     width: 116.9
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.033E-02 area:  12.4     v0:  936.2     width: 118.1
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.023E-02 area:  12.3     v0:  938.4     width: 122.4
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   7 rms: 1.023E-02 area:  11.6     v0:  935.9     width: 116.1
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.022E-02 area:  11.2     v0:  933.2     width: 109.3
+LAS> sw;p
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 803.7
+  WINDOW #1 (up ) : 1301.1
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.036E-02 area:  10.8     v0:  930.1     width: 92.84
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.024E-02 area:  11.0     v0:  933.0     width: 109.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.023E-02 area:  10.2     v0:  932.1     width: 107.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.018E-02 area:  13.3     v0:  943.8     width: 134.0
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.018E-02 area:  13.3     v0:  943.8     width: 134.0
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  13.4     v0:  943.7     width: 134.4
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.018E-02 area:  15.1     v0:  950.6     width: 143.4
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   9 rms: 1.017E-02 area:  16.0     v0:  956.1     width: 152.0
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.018E-02 area:  15.1     v0:  950.6     width: 143.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.018E-02 area:  15.1     v0:  950.6     width: 143.4
+LAS> sw;p
+LAS> sw;p
+LAS> get 29
+I-GET,  Observation 29; Vers 1 Scan 673
+LAS> pl
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.038E-02 area:  11.7     v0:  933.2     width: 112.6
+LAS> sw;base 2 /p
+I-POLYNO,  degree:   2 rms: 1.038E-02 area:  11.6     v0:  933.1     width: 111.0
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.036E-02 area:  10.8     v0:  930.1     width: 92.84
+LAS> sw;base 2 /p
+I-POLYNO,  degree:   2 rms: 1.038E-02 area:  11.6     v0:  933.1     width: 111.0
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.024E-02 area:  11.0     v0:  933.0     width: 109.6
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.023E-02 area:  10.2     v0:  932.1     width: 107.4
+LAS> sw;base 6 p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.018E-02 area:  13.3     v0:  943.8     width: 134.0
+LAS> get 29;p
+I-GET,  Observation 29; Vers 1 Scan 673
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.018E-02 area:  13.3     v0:  943.8     width: 134.0
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.018E-02 area:  13.4     v0:  943.7     width: 134.4
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.018E-02 area:  15.1     v0:  950.6     width: 143.4
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   9 rms: 1.017E-02 area:  16.0     v0:  956.1     width: 152.0
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   8 rms: 1.018E-02 area:  15.1     v0:  950.6     width: 143.4
+LAS> p
+LAS> p
+LAS> w
+I-WRITE,  Observation #29;2 successfully written
+LAS> get 30;p
+I-GET,  Observation 30; Vers 1 Scan 676
+LAS> set win
+  WINDOW #1 (low) : 817.3
+  WINDOW #1 (up ) : 1187.5
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.139E-02 area:  7.25     v0:  957.2     width: 87.91
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.123E-02 area:  6.59     v0:  955.9     width: 86.94
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.123E-02 area:  6.99     v0:  958.4     width: 91.06
+LAS> sw;base 6 p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.109E-02 area:  7.32     v0:  961.3     width: 95.87
+LAS> get 30;
+I-GET,  Observation 30; Vers 1 Scan 676
+LAS> base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.109E-02 area:  7.32     v0:  961.3     width: 95.87
+LAS> sw;p
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 824.1
+  WINDOW #1 (up ) : 1187.5
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.127E-02 area:  6.89     v0:  955.9     width: 86.96
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 1.126E-02 area:  7.47     v0:  959.1     width: 91.80
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.113E-02 area:  7.83     v0:  963.9     width: 101.4
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.113E-02 area:  7.83     v0:  963.9     width: 101.4
+LAS> sw;baes 7 /p
+E-PARSE,  Unknown command BAES
+LAS> base 7 /p   
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   7 rms: 1.113E-02 area:  7.71     v0:  961.9     width: 95.73
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 1.113E-02 area:  7.83     v0:  963.9     width: 101.4
+LAS> p
+LAS> w
+I-WRITE,  Observation #30;2 successfully written
+LAS> get 31;p
+I-GET,  Observation 31; Vers 1 Scan 678
+LAS> set win
+  WINDOW #1 (low) : 833.2
+  WINDOW #1 (up ) : 1005.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.437E-03 area:  1.77     v0:  918.6     width: 38.15
+LAS> sw;base 2 p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.320E-03 area:  1.45     v0:  933.1     width: 16.82
+LAS> get 31;p
+I-GET,  Observation 31; Vers 1 Scan 678
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.320E-03 area:  1.45     v0:  933.1     width: 16.82
+LAS> sw;base 3 /p
+I-POLYNO,  degree:   3 rms: 9.316E-03 area:  1.42     v0:  933.1     width: 16.79
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 9.437E-03 area:  1.77     v0:  918.6     width: 38.15
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 833.2
+  WINDOW #1 (up ) : 996.7
+LAS> set win
+  WINDOW #1 (low) : 837.7
+  WINDOW #1 (up ) : 1164.8
+  WINDOW #2 (low) : 483.4
+  WINDOW #2 (up ) : 687.8
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 9.010E-03 area:  3.33     v0:  911.2     width: 326.2
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 8.739E-03 area:  3.36     v0:  916.9     width: 303.5
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.012E-03 area:  3.35     v0:  913.6     width: 313.0
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 8.804E-03 area:  2.80     v0:  864.6     width: 474.2
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 8.739E-03 area:  3.36     v0:  916.9     width: 303.5
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   5 rms: 8.739E-03 area:  3.36     v0:  916.9     width: 303.5
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   6 rms: 8.738E-03 area:  3.39     v0:  916.6     width: 305.2
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 8.724E-03 area:  3.93     v0:  926.8     width: 238.2
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 8.724E-03 area:  3.93     v0:  926.8     width: 238.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #31;2 successfully written
+LAS> get 32;p
+I-GET,  Observation 32; Vers 1 Scan 680
+LAS> set win
+  WINDOW #1 (low) : 819.6
+  WINDOW #1 (up ) : 1103.5
+LAS> set win
+  WINDOW #1 (low) : 819.6
+W-WINDOW,  Missing upper boundary, last lower ignored.
+LAS> set win
+  WINDOW #1 (low) : 815.0
+  WINDOW #1 (up ) : 1155.7
+  WINDOW #2 (low) : 612.9
+  WINDOW #2 (up ) : 817.3
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.231E-03 area:  4.17     v0:  896.9     width: 137.6
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.211E-03 area:  3.01     v0:  890.5     width: 156.5
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.236E-03 area:  4.29     v0:  898.5     width: 136.1
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 9.096E-03 area:  4.69     v0:  909.7     width: 135.4
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 9.096E-03 area:  4.61     v0:  909.8     width: 137.2
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> p
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> p
+LAS> sw;p
+LAS> base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p 
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p 
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> sw;base 7 /p;p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 9.092E-03 area:  5.43     v0:  915.4     width: 144.3
+LAS> sw;base 8 /p;p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 9.088E-03 area:  7.27     v0:  909.1     width: 145.1
+LAS> w
+I-WRITE,  Observation #32;2 successfully written
+LAS> get 33;p
+I-GET,  Observation 33; Vers 1 Scan 684
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.475E-03 area:  1.80     v0:  922.3     width: 466.4
+LAS> p
+LAS> w
+I-WRITE,  Observation #33;2 successfully written
+LAS> get 34;p
+I-GET,  Observation 34; Vers 1 Scan 687
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.002E-02 area: 0.307     v0:  5708.     width: 0.000
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.953E-03 area:  1.49     v0:  441.3     width: 0.000
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.903E-03 area:  1.86     v0:  785.2     width: 274.5
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.893E-03 area:  1.04     v0:  773.5     width: 231.9
+LAS> sw;p
+LAS> base 3 p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.903E-03 area:  1.86     v0:  785.2     width: 274.5
+LAS> get 34
+I-GET,  Observation 34; Vers 1 Scan 687
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.903E-03 area:  1.86     v0:  785.2     width: 274.5
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.953E-03 area:  1.49     v0:  441.3     width: 0.000
+LAS> sw;p
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.953E-03 area:  1.49     v0:  441.3     width: 0.000
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.903E-03 area:  1.86     v0:  785.2     width: 274.5
+LAS> get 34
+I-GET,  Observation 34; Vers 1 Scan 687
+LAS> p
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.953E-03 area:  1.49     v0:  441.3     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #34;2 successfully written
+LAS> get 35;p
+I-GET,  Observation 35; Vers 1 Scan 703
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.438E-02 area:  3.65     v0:  793.8     width: 278.3
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.440E-02 area:  4.35     v0:  845.0     width: 328.2
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.440E-02 area:  4.35     v0:  845.0     width: 328.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #35;2 successfully written
+LAS> get 36;p
+I-GET,  Observation 36; Vers 1 Scan 706
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.358E-02 area:  2.64     v0:  761.5     width: 356.9
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.284E-02 area:  4.55     v0:  943.4     width: 421.5
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   7 rms: 1.273E-02 area: -2.12     v0:  869.8     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.274E-02 area: -1.44     v0:  854.4     width: 0.000
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   8 rms: 1.273E-02 area: -3.51     v0:  860.8     width: 90.12
+LAS> sw;base 9 /p
+I-POLYNO,  Degree  6 would be even better
+I-POLYNO,  degree:   9 rms: 1.273E-02 area: -1.44     v0:  852.7     width: 0.000
+LAS> sw;p
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.273E-02 area: -1.44     v0:  852.7     width: 0.000
+LAS> sw;p
+LAS> get 36
+I-GET,  Observation 36; Vers 1 Scan 706
+LAS> p  
+LAS> base 6 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   6 rms: 1.274E-02 area: -1.44     v0:  854.4     width: 0.000
+LAS> sw;p
+LAS> dra wi
+LAS> get win
+E-MTH,  Unknown variable WIN
+E-MTH,  Error reading operand WIN
+E-DECODE,  Invalid arithmetic expression WIN
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 674.2
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.360E-02 area: 0.392     v0:  0.000     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.360E-02 area: 0.394     v0:  0.000     width: 0.000
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 1.360E-02 area: 0.396     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   8 rms: 1.338E-02 area: 9.331E-02 v0:  0.000     width: 0.000
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 1.360E-02 area: 0.396     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 1.360E-02 area: 0.396     v0:  0.000     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.360E-02 area: 0.392     v0:  0.000     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.360E-02 area: 0.394     v0:  0.000     width: 0.000
+LAS> sw;bae 4 /p
+E-PARSE,  Unknown command BAE
+LAS> sw;p
+LAS> get 36;p
+I-GET,  Observation 36; Vers 1 Scan 706
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.377E-02 area: 0.645     v0:  0.000     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.360E-02 area: 0.394     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.360E-02 area: 0.394     v0:  0.000     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.377E-02 area: 0.645     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.360E-02 area: 0.392     v0:  0.000     width: 0.000
+LAS> p
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 576.5
+  WINDOW #1 (up ) : 681.0
+  WINDOW #2 (low) : 980.8
+  WINDOW #2 (up ) : 1162.5
+LAS> base 5 /p
+I-POLYNO,  degree:   5 rms: 1.289E-02 area:  2.68     v0:  857.0     width: 523.2
+LAS> p
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 597.0
+  WINDOW #1 (up ) : 669.7
+  WINDOW #2 (low) : 983.1
+  WINDOW #2 (up ) : 1092.1
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 1.371E-02 area:  1.22     v0:  1053.     width:0.5413
+LAS> sw;base 5 /p
+I-POLYNO,  degree:   5 rms: 1.334E-02 area:  1.43     v0:  1053.     width: 0.000
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.334E-02 area:  1.47     v0:  1053.     width: 0.000
+LAS> p
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.334E-02 area:  1.47     v0:  1053.     width: 0.000
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   7 rms: 1.331E-02 area:  1.52     v0:  1053.     width: 0.000
+LAS> sw;bae 8 /p
+E-PARSE,  Unknown command BAE
+LAS> base 8 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   8 rms: 1.320E-02 area:  1.11     v0:  1053.     width:0.5413
+LAS> sw;p
+LAS> base 8 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   8 rms: 1.320E-02 area:  1.11     v0:  1053.     width:0.5413
+LAS> p
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 587.9
+  WINDOW #1 (up ) : 671.9
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.347E-02 area: 0.535     v0:  589.7     width: 0.000
+LAS> sw;base 7 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   7 rms: 1.347E-02 area: 0.543     v0:  589.7     width:0.2707
+LAS> sw;base  8 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   8 rms: 1.327E-02 area: 0.246     v0:  589.7     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.347E-02 area: 0.532     v0:  589.7     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.347E-02 area: 0.535     v0:  589.7     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.347E-02 area: 0.532     v0:  589.7     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #36;2 successfully written
+LAS> get 37;pl
+I-GET,  Observation 37; Vers 1 Scan 708
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.510E-02 area: 0.350     v0:  0.000     width: 0.000
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.503E-02 area: 0.247     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.510E-02 area: 0.350     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #37;2 successfully written
+LAS> get 38;p
+I-GET,  Observation 38; Vers 1 Scan 713
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.794E-02 area:  1.20     v0:  0.000     width: 0.000
+LAS> sw;
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.788E-02 area:  1.30     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.764E-02 area: 0.960     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #38;2 successfully written
+LAS> get 39
+I-GET,  Observation 39; Vers 1 Scan 716
+LAS> p 
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.615E-02 area: 0.791     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #39;2 successfully written
+LAS> get 40
+I-GET,  Observation 40; Vers 1 Scan 719
+LAS> pl
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.438E-02 area: 0.765     v0:  627.0     width: 47.41
+LAS> sw;base 3 /p
+I-POLYNO,  degree:   3 rms: 1.420E-02 area: 0.524     v0:  607.9     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.414E-02 area: 0.540     v0:  607.9     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.400E-02 area: 0.301     v0:  607.9     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.400E-02 area: 0.301     v0:  607.9     width: 0.000
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.400E-02 area: 0.301     v0:  607.9     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.400E-02 area: 0.301     v0:  607.9     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> sw;p 
+LAS> base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.400E-02 area: 0.301     v0:  607.9     width: 0.000
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> sw;p
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.391E-02 area: 0.398     v0:  607.9     width:0.2707
+LAS> p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> sw;p
+LAS> p
+LAS> get 41;pl
+I-GET,  Observation 41; Vers 1 Scan 722
+LAS> base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.353E-02 area: 0.419     v0:  0.000     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.353E-02 area: 0.419     v0:  0.000     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.390E-02 area: 0.792     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 1.390E-02 area: 0.792     v0:  0.000     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  4 would be even better
+I-POLYNO,  degree:   5 rms: 1.353E-02 area: 0.419     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.390E-02 area: 0.787     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #41;2 successfully written
+LAS> get 42;p
+I-GET,  Observation 42; Vers 1 Scan 725
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.326E-02 area:  1.34     v0:  653.2     width: 31.24
+LAS> sw;p
+LAS> dra w
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 758.2
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.292E-02 area:  3.67     v0:  626.7     width: 98.97
+LAS> p
+LAS> w
+I-WRITE,  Observation #42;2 successfully written
+LAS> get 43;p
+I-GET,  Observation 43; Vers 1 Scan 730
+LAS> dra win
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.109E-02 area:  2.66     v0:  678.0     width: 158.6
+LAS> sw;base 4 /p
+I-POLYNO,  degree:   4 rms: 1.108E-02 area:  2.67     v0:  678.2     width: 158.5
+LAS> sw;base 5 /p
+I-POLYNO,  degree:   5 rms: 1.095E-02 area:  1.70     v0:  678.6     width: 158.3
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  degree:   5 rms: 1.095E-02 area:  1.70     v0:  678.6     width: 158.3
+LAS> dra win
+LAS> p
+LAS> w
+I-WRITE,  Observation #43;2 successfully written
+LAS> get 44;p
+I-GET,  Observation 44; Vers 1 Scan 733
+LAS> dra win
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.244E-02 area: 0.537     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #44;2 successfully written
+LAS> get 45;pl
+I-GET,  Observation 45; Vers 1 Scan 736
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.308E-02 area:  2.07     v0:  0.000     width: 0.000
+LAS> sw;base 4 p
+I-POLYNO,  degree:   4 rms: 1.264E-02 area:  2.21     v0: 1.0669E+04 width: 0.000
+LAS> get 45;p
+I-GET,  Observation 45; Vers 1 Scan 736
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.264E-02 area:  2.21     v0: 1.0669E+04 width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #45;2 successfully written
+LAS> get 46
+I-GET,  Observation 46; Vers 1 Scan 739
+LAS> pl
+LAS> base 5 /p
+I-POLYNO,  degree:   5 rms: 1.232E-02 area:  1.88     v0:  559.9     width: 62.76
+LAS> sw;base 3 /p
+I-POLYNO,  degree:   3 rms: 1.241E-02 area:  2.71     v0:  590.3     width: 116.9
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.241E-02 area:  2.71     v0:  590.4     width: 117.0
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  5 would be even better
+I-POLYNO,  degree:   6 rms: 1.221E-02 area:  2.53     v0:  589.1     width: 116.6
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 915.0
+  WINDOW #1 (up ) : 1012.6
+  WINDOW #2 (low) : 553.8
+  WINDOW #2 (up ) : 603.8
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.211E-02 area: 0.854     v0:  974.0     width: 10.72
+LAS> sw;base 6 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.208E-02 area: 0.859     v0:  974.0     width: 10.69
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 1.251E-02 area: 0.638     v0:  587.1     width: 0.000
+LAS> sw;base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.211E-02 area: 0.854     v0:  974.0     width: 10.72
+LAS> sw;p
+LAS> base 5 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.211E-02 area: 0.854     v0:  974.0     width: 10.72
+LAS> p
+LAS> sw;p
+LAS> base 5 /p;p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.211E-02 area: 0.854     v0:  974.0     width: 10.72
+LAS> sw;base 6 /p;p 
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.208E-02 area: 0.859     v0:  974.0     width: 10.69
+LAS> sw;base 6 /p;p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   6 rms: 1.208E-02 area: 0.859     v0:  974.0     width: 10.69
+LAS> base 5 /p;p   
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.208E-02 area: 0.859     v0:  974.0     width: 10.72
+LAS> get 46;p
+I-GET,  Observation 46; Vers 1 Scan 739
+LAS> base 5 /p;p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   5 rms: 1.211E-02 area: 0.854     v0:  974.0     width: 10.72
+LAS> w
+I-WRITE,  Observation #46;2 successfully written
+LAS> get 47;
+I-GET,  Observation 47; Vers 1 Scan 742
+LAS> p
+LAS> set win
+  WINDOW #1 (low) : 578.8
+  WINDOW #1 (up ) : 628.8
+  WINDOW #2 (low) : 685.6
+  WINDOW #2 (up ) : 746.9
+  WINDOW #3 (low) : 1255.6
+  WINDOW #3 (up ) : 1360.1
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.258E-02 area:  1.55     v0:  0.000     width: 0.000
+LAS> sw;base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.260E-02 area:  1.59     v0:  723.6     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 1.258E-02 area:  1.55     v0:  0.000     width: 0.000
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.258E-02 area:  1.55     v0:  0.000     width: 0.000
+LAS> p
+LAS> w
+I-WRITE,  Observation #47;2 successfully written
+LAS> get 48;p
+I-GET,  Observation 48; Vers 1 Scan 756
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 8.545E-03 area: 0.353     v0: -1202.     width: 0.000
+LAS> sw;p
+LAS> set win
+  WINDOW #1 (low) : 623.5
+  WINDOW #1 (up ) : 858.1
+  WINDOW #2 (low) : 1295.5
+  WINDOW #2 (up ) : 1372.9
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 8.370E-03 area:  1.96     v0:  846.9     width: 534.7
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  3 would be even better
+I-POLYNO,  degree:   4 rms: 8.187E-03 area:  1.57     v0:  1070.     width: 669.5
+LAS> sw;p
+LAS> dra win
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 514.2
+  WINDOW #1 (up ) : 1035.8
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.068E-03 area:  4.55     v0:  744.9     width: 195.4
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.068E-03 area:  4.55     v0:  744.9     width: 195.4
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 514.2
+  WINDOW #1 (up ) : 1136.0
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.904E-03 area:  4.77     v0:  772.3     width: 290.2
+LAS> get 48;p
+I-GET,  Observation 48; Vers 1 Scan 756
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.904E-03 area:  4.77     v0:  772.3     width: 290.2
+LAS> p
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.904E-03 area:  4.77     v0:  772.3     width: 290.2
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 7.836E-03 area:  7.82     v0:  781.2     width: 265.5
+LAS> p
+LAS> sw;p
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.904E-03 area:  4.77     v0:  772.3     width: 290.2
+LAS> p
+LAS> w
+I-WRITE,  Observation #48;2 successfully written
+LAS> get 49;p
+I-GET,  Observation 49; Vers 1 Scan 760
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.215E-03 area:  5.59     v0:  748.3     width: 311.1
+LAS> p
+LAS> w
+I-WRITE,  Observation #49;2 successfully written
+LAS> get 50;
+I-GET,  Observation 50; Vers 1 Scan 763
+LAS> pl
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.421E-03 area:  2.22     v0:  447.0     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.354E-03 area:  5.54     v0:  778.5     width: 281.6
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 9.354E-03 area:  5.54     v0:  778.5     width: 281.6
+LAS> p
+LAS> sw;p     
+LAS> dra win
+LAS> set win
+  WINDOW #1 (low) : 596.2
+  WINDOW #1 (up ) : 1051.7
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.191E-03 area:  2.91     v0:  492.2     width: 0.000
+LAS> sw;base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.117E-03 area:  4.47     v0:  745.4     width: 29.61
+LAS> sw;p
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 9.117E-03 area:  4.47     v0:  745.4     width: 29.61
+LAS> p
+LAS> w
+I-WRITE,  Observation #50;2 successfully written
+LAS> 
+

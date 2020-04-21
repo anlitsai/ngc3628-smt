@@ -1,0 +1,26 @@
+!-------------------------------------------
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+set source *
+set win 400 1300
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+file out n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0.smt mul
+find;list 
+ 
+!-------------------------------------------
+ 
+for i 1 to found
+  get next
+  base 0 /pl ;plot
+  write
+next
+ 
+!===========================================
+ 

@@ -1,0 +1,20 @@
+!-------------------------------------------
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+set source *
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBaseline.smt
+find;list 
+ 
+get 8513 ; plot
+get 7841 ; plot
+get 7842 ; plot
+get 7913 ; plot
+get 8009 ; plot
+get 8309 ; plot

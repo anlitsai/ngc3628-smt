@@ -1,0 +1,698 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set ang sec
+set weight sigma
+set align f
+set plot histogram
+set unit v f
+ 
+!===========================================
+ 
+ 
+!
+! sort the source name 
+!
+ 
+find 
+file both n3628_01-118_smt-f1m_sort.smt
+set source *
+set tel *
+set sort source 
+find;list 
+ 
+!-------------------------------------------
+  set source n3628-01 
+  find; list
+  modify source N3628-001
+  write
+ 
+!-------------------------------------------
+  set source n3628-02 
+  find; list
+  modify source N3628-002
+  write
+ 
+!-------------------------------------------
+  set source n3628-03 
+  find; list
+  modify source N3628-003
+  write
+ 
+!-------------------------------------------
+  set source n3628-04 
+  find; list
+  modify source N3628-004
+  write
+ 
+!-------------------------------------------
+  set source n3628-05 
+  find; list
+  modify source N3628-005
+  write
+ 
+!-------------------------------------------
+  set source n3628-06 
+  find; list
+  modify source N3628-006
+  write
+ 
+!-------------------------------------------
+  set source n3628-07 
+  find; list
+  modify source N3628-007
+  write
+ 
+!-------------------------------------------
+  set source n3628-08 
+  find; list
+  modify source N3628-008
+  write
+ 
+!-------------------------------------------
+  set source n3628-09 
+  find; list
+  modify source N3628-009
+  write
+ 
+!-------------------------------------------
+  set source n3628-10 
+  find; list
+  modify source N3628-010
+  write
+ 
+!-------------------------------------------
+  set source n3628-11 
+  find; list
+  modify source N3628-011
+  write
+ 
+!-------------------------------------------
+  set source n3628-12 
+  find; list
+  modify source N3628-012
+  write
+ 
+!-------------------------------------------
+  set source n3628-13 
+  find; list
+  modify source N3628-013
+  write
+ 
+!-------------------------------------------
+  set source n3628-14 
+  find; list
+  modify source N3628-014
+  write
+ 
+!-------------------------------------------
+  set source n3628-15 
+  find; list
+  modify source N3628-015
+  write
+ 
+!-------------------------------------------
+  set source n3628-16 
+  find; list
+  modify source N3628-016
+  write
+ 
+!-------------------------------------------
+  set source n3628-17 
+  find; list
+  modify source N3628-017
+  write
+ 
+!-------------------------------------------
+  set source n3628-18 
+  find; list
+  modify source N3628-018
+  write
+ 
+!-------------------------------------------
+  set source n3628-19 
+  find; list
+  modify source N3628-019
+  write
+ 
+!-------------------------------------------
+  set source n3628-20 
+  find; list
+  modify source N3628-020
+  write
+ 
+!-------------------------------------------
+  set source n3628-21 
+  find; list
+  modify source N3628-021
+  write
+ 
+!-------------------------------------------
+  set source n3628-22 
+  find; list
+  modify source N3628-022
+  write
+ 
+!-------------------------------------------
+  set source n3628-23 
+  find; list
+  modify source N3628-023
+  write
+ 
+!-------------------------------------------
+  set source n3628-24 
+  find; list
+  modify source N3628-024
+  write
+ 
+!-------------------------------------------
+  set source n3628-25 
+  find; list
+  modify source N3628-025
+  write
+ 
+!-------------------------------------------
+  set source n3628-26 
+  find; list
+  modify source N3628-026
+  write
+ 
+!-------------------------------------------
+  set source n3628-27 
+  find; list
+  modify source N3628-027
+  write
+ 
+!-------------------------------------------
+  set source n3628-28 
+  find; list
+  modify source N3628-028
+  write
+ 
+!-------------------------------------------
+  set source n3628-29 
+  find; list
+  modify source N3628-029
+  write
+ 
+!-------------------------------------------
+  set source n3628-30 
+  find; list
+  modify source N3628-030
+  write
+ 
+!-------------------------------------------
+  set source n3628-31 
+  find; list
+  modify source N3628-031
+  write
+ 
+!-------------------------------------------
+  set source n3628-32 
+  find; list
+  modify source N3628-032
+  write
+ 
+!-------------------------------------------
+  set source n3628-33 
+  find; list
+  modify source N3628-033
+  write
+ 
+!-------------------------------------------
+  set source n3628-34 
+  find; list
+  modify source N3628-034
+  write
+ 
+!-------------------------------------------
+  set source n3628-35 
+  find; list
+  modify source N3628-035
+  write
+ 
+!-------------------------------------------
+  set source n3628-36 
+  find; list
+  modify source N3628-036
+  write
+ 
+!-------------------------------------------
+  set source n3628-37 
+  find; list
+  modify source N3628-037
+  write
+ 
+!-------------------------------------------
+  set source n3628-38 
+  find; list
+  modify source N3628-038
+  write
+ 
+!-------------------------------------------
+  set source n3628-39 
+  find; list
+  modify source N3628-039
+  write
+ 
+!-------------------------------------------
+  set source n3628-40 
+  find; list
+  modify source N3628-040
+  write
+ 
+!-------------------------------------------
+  set source n3628-41 
+  find; list
+  modify source N3628-041
+  write
+ 
+!-------------------------------------------
+  set source n3628-42 
+  find; list
+  modify source N3628-042
+  write
+ 
+!-------------------------------------------
+  set source n3628-43 
+  find; list
+  modify source N3628-043
+  write
+ 
+!-------------------------------------------
+  set source n3628-44 
+  find; list
+  modify source N3628-044
+  write
+ 
+!-------------------------------------------
+  set source n3628-45 
+  find; list
+  modify source N3628-045
+  write
+ 
+!-------------------------------------------
+  set source n3628-46 
+  find; list
+  modify source N3628-046
+  write
+ 
+!-------------------------------------------
+  set source n3628-47 
+  find; list
+  modify source N3628-047
+  write
+ 
+!-------------------------------------------
+  set source n3628-48 
+  find; list
+  modify source N3628-048
+  write
+ 
+!-------------------------------------------
+  set source n3628-49 
+  find; list
+  modify source N3628-049
+  write
+ 
+!-------------------------------------------
+  set source n3628-50 
+  find; list
+  modify source N3628-050
+  write
+ 
+!-------------------------------------------
+  set source n3628-51 
+  find; list
+  modify source N3628-051
+  write
+ 
+!-------------------------------------------
+  set source n3628-52 
+  find; list
+  modify source N3628-052
+  write
+ 
+!-------------------------------------------
+  set source n3628-53 
+  find; list
+  modify source N3628-053
+  write
+ 
+!-------------------------------------------
+  set source n3628-54 
+  find; list
+  modify source N3628-054
+  write
+ 
+!-------------------------------------------
+  set source n3628-55 
+  find; list
+  modify source N3628-055
+  write
+ 
+!-------------------------------------------
+  set source n3628-56 
+  find; list
+  modify source N3628-056
+  write
+ 
+!-------------------------------------------
+  set source n3628-57 
+  find; list
+  modify source N3628-057
+  write
+ 
+!-------------------------------------------
+  set source n3628-58 
+  find; list
+  modify source N3628-058
+  write
+ 
+!-------------------------------------------
+  set source n3628-59 
+  find; list
+  modify source N3628-059
+  write
+ 
+!-------------------------------------------
+  set source n3628-60 
+  find; list
+  modify source N3628-060
+  write
+ 
+!-------------------------------------------
+  set source n3628-61 
+  find; list
+  modify source N3628-061
+  write
+ 
+!-------------------------------------------
+  set source n3628-62 
+  find; list
+  modify source N3628-062
+  write
+ 
+!-------------------------------------------
+  set source n3628-63 
+  find; list
+  modify source N3628-063
+  write
+ 
+!-------------------------------------------
+  set source n3628-64 
+  find; list
+  modify source N3628-064
+  write
+ 
+!-------------------------------------------
+  set source n3628-65 
+  find; list
+  modify source N3628-065
+  write
+ 
+!-------------------------------------------
+  set source n3628-66 
+  find; list
+  modify source N3628-066
+  write
+ 
+!-------------------------------------------
+  set source n3628-67 
+  find; list
+  modify source N3628-067
+  write
+ 
+!-------------------------------------------
+  set source n3628-68 
+  find; list
+  modify source N3628-068
+  write
+ 
+!-------------------------------------------
+  set source n3628-69 
+  find; list
+  modify source N3628-069
+  write
+ 
+!-------------------------------------------
+  set source n3628-70 
+  find; list
+  modify source N3628-070
+  write
+ 
+!-------------------------------------------
+  set source n3628-71 
+  find; list
+  modify source N3628-071
+  write
+ 
+!-------------------------------------------
+  set source n3628-72 
+  find; list
+  modify source N3628-072
+  write
+ 
+!-------------------------------------------
+  set source n3628-73 
+  find; list
+  modify source N3628-073
+  write
+ 
+!-------------------------------------------
+  set source n3628-74 
+  find; list
+  modify source N3628-074
+  write
+ 
+!-------------------------------------------
+  set source n3628-75 
+  find; list
+  modify source N3628-075
+  write
+ 
+!-------------------------------------------
+  set source n3628-76 
+  find; list
+  modify source N3628-076
+  write
+ 
+!-------------------------------------------
+  set source n3628-77 
+  find; list
+  modify source N3628-077
+  write
+ 
+!-------------------------------------------
+  set source n3628-78 
+  find; list
+  modify source N3628-078
+  write
+ 
+!-------------------------------------------
+  set source n3628-79 
+  find; list
+  modify source N3628-079
+  write
+ 
+!-------------------------------------------
+  set source n3628-80 
+  find; list
+  modify source N3628-080
+  write
+ 
+!-------------------------------------------
+  set source n3628-81 
+  find; list
+  modify source N3628-081
+  write
+ 
+!-------------------------------------------
+  set source n3628-82 
+  find; list
+  modify source N3628-082
+  write
+ 
+!-------------------------------------------
+  set source n3628-83 
+  find; list
+  modify source N3628-083
+  write
+ 
+!-------------------------------------------
+  set source n3628-84 
+  find; list
+  modify source N3628-084
+  write
+ 
+!-------------------------------------------
+  set source n3628-85 
+  find; list
+  modify source N3628-085
+  write
+ 
+!-------------------------------------------
+  set source n3628-86 
+  find; list
+  modify source N3628-086
+  write
+ 
+!-------------------------------------------
+  set source n3628-87 
+  find; list
+  modify source N3628-087
+  write
+ 
+!-------------------------------------------
+  set source n3628-88 
+  find; list
+  modify source N3628-088
+  write
+ 
+!-------------------------------------------
+  set source n3628-89 
+  find; list
+  modify source N3628-089
+  write
+ 
+!-------------------------------------------
+  set source n3628-90 
+  find; list
+  modify source N3628-090
+  write
+ 
+!-------------------------------------------
+  set source n3628-91 
+  find; list
+  modify source N3628-091
+  write
+ 
+!-------------------------------------------
+  set source n3628-92 
+  find; list
+  modify source N3628-092
+  write
+ 
+!-------------------------------------------
+  set source n3628-93 
+  find; list
+  modify source N3628-093
+  write
+ 
+!-------------------------------------------
+  set source n3628-94 
+  find; list
+  modify source N3628-094
+  write
+ 
+!-------------------------------------------
+  set source n3628-95 
+  find; list
+  modify source N3628-095
+  write
+ 
+!-------------------------------------------
+  set source n3628-96 
+  find; list
+  modify source N3628-096
+  write
+ 
+!-------------------------------------------
+  set source n3628-97 
+  find; list
+  modify source N3628-097
+  write
+ 
+!-------------------------------------------
+  set source n3628-98 
+  find; list
+  modify source N3628-098
+  write
+ 
+!-------------------------------------------
+  set source n3628-99 
+  find; list
+  modify source N3628-099
+  write
+ 
+!-------------------------------------------
+  set source n3628-100 ;find; list
+  modify source N3628-100
+  write
+!-------------------------------------------
+  set source n3628-101 ;find; list
+  modify source N3628-101
+  write
+!-------------------------------------------
+  set source n3628-102 ;find; list
+  modify source N3628-102
+  write
+!-------------------------------------------
+  set source n3628-103 ;find; list
+  modify source N3628-103
+  write
+!-------------------------------------------
+  set source n3628-104 ;find; list
+  modify source N3628-104
+  write
+!-------------------------------------------
+  set source n3628-105 ;find; list
+  modify source N3628-105
+  write
+!-------------------------------------------
+  set source n3628-106 ;find; list
+  modify source N3628-106
+  write
+!-------------------------------------------
+  set source n3628-107 ;find; list
+  modify source N3628-107
+  write
+!-------------------------------------------
+  set source n3628-108 ;find; list
+  modify source N3628-108
+  write
+!-------------------------------------------
+  set source n3628-109 ;find; list
+  modify source N3628-109
+  write
+!-------------------------------------------
+  set source n3628-110 ;find; list
+  modify source N3628-110
+  write
+!-------------------------------------------
+  set source n3628-111 ;find; list
+  modify source N3628-111
+  write
+!-------------------------------------------
+  set source n3628-112 ;find; list
+  modify source N3628-112
+  write
+!-------------------------------------------
+  set source n3628-113 ;find; list
+  modify source N3628-113
+  write
+!-------------------------------------------
+  set source n3628-114 ;find; list
+  modify source N3628-114
+  write
+!-------------------------------------------
+  set source n3628-115 ;find; list
+  modify source N3628-115
+  write
+!-------------------------------------------
+  set source n3628-116 ;find; list
+  modify source N3628-116
+  write
+!-------------------------------------------
+  set source n3628-117 ;find; list
+  modify source N3628-117
+  write
+!-------------------------------------------
+  set source n3628-118 ;find; list
+  modify source N3628-118
+  write
+!===========================================

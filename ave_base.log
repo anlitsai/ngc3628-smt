@@ -1,0 +1,991 @@
+#
+LAS> get 1;p
+I-GET,  Observation 1; Vers 1 Scan 521
+LAS> set win
+  WINDOW #1 (low) : 592.4
+  WINDOW #1 (up ) : 1073.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.844E-03 area:  68.2     v0:  833.9     width: 199.1
+
+LAS> get 2;p
+I-GET,  Observation 2; Vers 1 Scan 524
+LAS> set win 
+  WINDOW #1 (low) : 567.4
+  WINDOW #1 (up ) : 1053.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.022E-02 area:  48.6     v0:  789.8     width: 177.5
+
+LAS> get 3 ;p
+I-GET,  Observation 3; Vers 1 Scan 527
+LAS> set win
+  WINDOW #1 (low) : 503.9
+  WINDOW #1 (up ) : 994.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.327E-03 area:  30.4     v0:  748.8     width: 144.7
+
+LAS> get 4 ;p
+I-GET,  Observation 4; Vers 1 Scan 530
+LAS> set win
+  WINDOW #1 (low) : 569.7
+  WINDOW #1 (up ) : 903.6
+LAS> pl
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.711E-02 area:  20.4     v0:  720.2     width: 135.1
+
+LAS> get 5
+I-GET,  Observation 5; Vers 1 Scan 531
+LAS> pl
+LAS> set win
+  WINDOW #1 (low) : 528.8
+  WINDOW #1 (up ) : 987.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.781E-03 area:  18.7     v0:  737.0     width: 146.2
+
+LAS> get 6 ;p
+I-GET,  Observation 6; Vers 1 Scan 534
+LAS> set win
+  WINDOW #1 (low) : 483.4
+  WINDOW #1 (up ) : 1071.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.947E-03 area:  31.4     v0:  769.2     width: 161.9
+
+LAS> get 7;p
+I-GET,  Observation 7; Vers 1 Scan 537
+LAS> set win
+  WINDOW #1 (low) : 610.6
+  WINDOW #1 (up ) : 1087.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.525E-03 area:  45.7     v0:  827.9     width: 191.9
+
+LAS> get 8;p
+I-GET,  Observation 8; Vers 1 Scan 540
+LAS> set win
+  WINDOW #1 (low) : 547.0
+  WINDOW #1 (up ) : 1121.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.474E-03 area:  40.5     v0:  868.4     width: 181.9
+
+LAS> get 9 ;p
+I-GET,  Observation 9; Vers 1 Scan 547
+LAS> set win
+  WINDOW #1 (low) : 617.4
+  WINDOW #1 (up ) : 1287.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.610E-03 area:  20.4     v0:  909.1     width: 131.9
+
+LAS> get 10;p
+I-GET,  Observation 10; Vers 1 Scan 550
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 1121.6
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.720E-03 area:  11.3     v0:  937.9     width: 147.4
+
+LAS> get 11;p
+I-GET,  Observation 11; Vers 1 Scan 553
+LAS> set win
+  WINDOW #1 (low) : 787.8
+  WINDOW #1 (up ) : 1137.5
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 8.857E-03 area:  15.6     v0:  957.9     width: 137.2
+
+LAS> get 12;p
+I-GET,  Observation 12; Vers 1 Scan 556
+LAS> set win
+  WINDOW #1 (low) : 701.5
+  WINDOW #1 (up ) : 1173.9
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.952E-03 area:  23.0     v0:  937.0     width: 146.0
+
+LAS> get 13;p
+I-GET,  Observation 13; Vers 1 Scan 559
+LAS> set win
+  WINDOW #1 (low) : 592.4
+  WINDOW #1 (up ) : 1153.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.117E-03 area:  40.3     v0:  902.2     width: 164.1
+
+LAS> get 14;p
+I-GET,  Observation 14; Vers 1 Scan 565
+LAS> set win
+  WINDOW #1 (low) : 610.6
+  WINDOW #1 (up ) : 1139.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.172E-03 area:  46.5     v0:  879.1     width: 175.1
+
+LAS> get 15;p 
+I-GET,  Observation 15; Vers 1 Scan 568
+LAS> set win
+  WINDOW #1 (low) : 476.6
+  WINDOW #1 (up ) : 1148.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.064E-02 area:  51.9     v0:  840.5     width: 193.9
+
+LAS> get 16;p
+I-GET,  Observation 16; Vers 1 Scan 571
+LAS> set win
+  WINDOW #1 (low) : 562.9
+  WINDOW #1 (up ) : 1098.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.395E-03 area:  37.6     v0:  795.7     width: 180.6
+
+LAS> get 17;p
+I-GET,  Observation 17; Vers 1 Scan 574
+LAS> set win
+  WINDOW #1 (low) : 510.7
+  WINDOW #1 (up ) : 983.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.721E-03 area:  20.9     v0:  752.0     width: 137.6
+
+LAS> get 18;p
+I-GET,  Observation 18; Vers 1 Scan 577
+LAS> set win
+  WINDOW #1 (low) : 465.2
+  WINDOW #1 (up ) : 1298.8
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 8.981E-03 area:  17.8     v0:  731.2     width: 165.7
+
+LAS> get 19;p  
+I-GET,  Observation 19; Vers 1 Scan 588
+LAS> set win
+  WINDOW #1 (low) : 585.6
+  WINDOW #1 (up ) : 894.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.027E-02 area:  14.6     v0:  711.3     width: 136.0
+
+LAS> get 20;p
+I-GET,  Observation 20; Vers 1 Scan 591
+LAS> set win
+  WINDOW #1 (low) : 488.0
+  WINDOW #1 (up ) : 871.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.047E-02 area:  9.01     v0:  712.8     width: 134.5
+
+
+LAS> get 21;p
+I-GET,  Observation 21; Vers 1 Scan 594
+LAS> set win
+  WINDOW #1 (low) : 556.1
+  WINDOW #1 (up ) : 805.9
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.138E-02 area:  2.46     v0:  662.5     width: 206.6
+
+LAS> get 22;p
+I-GET,  Observation 22; Vers 1 Scan 643
+LAS> set win
+  WINDOW #1 (low) : 290.4
+  WINDOW #1 (up ) : 858.2
+LAS> base 4 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   4 rms: 6.375E-03 area:  6.83     v0:  666.4     width: 319.9
+
+LAS> get 23;p
+I-GET,  Observation 23; Vers 1 Scan 648
+LAS> set win
+  WINDOW #1 (low) : 499.3
+  WINDOW #1 (up ) : 867.3
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 7.669E-03 area:  5.44     v0:  721.0     width: 152.4
+
+LAS> get 24;p
+I-GET,  Observation 24; Vers 1 Scan 652
+LAS> set win
+  WINDOW #1 (low) : 512.9
+  WINDOW #1 (up ) : 962.6
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 8.974E-03 area:  6.51     v0:  754.6     width: 92.59
+
+LAS> get 25;p
+I-GET,  Observation 25; Vers 1 Scan 657
+LAS> set win
+  WINDOW #1 (low) : 497.0
+  WINDOW #1 (up ) : 1069.4
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.763E-03 area:  9.07     v0:  810.2     width: 178.6
+
+LAS> get 26;p
+I-GET,  Observation 26; Vers 1 Scan 660
+LAS> set win
+  WINDOW #1 (low) : 283.5
+  WINDOW #1 (up ) : 1203.4
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 7.339E-03 area:  14.5     v0:  819.3     width: 255.6
+
+LAS> get 27;p
+I-GET,  Observation 27; Vers 1 Scan 667
+LAS> set win
+  WINDOW #1 (low) : 617.4
+  WINDOW #1 (up ) : 1142.1
+LAS> base 4 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   4 rms: 7.449E-03 area:  8.37     v0:  892.7     width: 145.1
+
+LAS> get 28;p
+I-GET,  Observation 28; Vers 1 Scan 671
+LAS> set win
+  WINDOW #1 (low) : 701.5
+  WINDOW #1 (up ) : 1194.3
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.073E-02 area:  21.5     v0:  910.8     width: 120.6
+
+LAS> get 29;p
+I-GET,  Observation 29; Vers 1 Scan 673
+LAS> set win
+  WINDOW #1 (low) : 801.4
+  WINDOW #1 (up ) : 1173.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.055E-02 area:  13.0     v0:  935.0     width: 118.4
+
+
+LAS> get 30;p
+I-GET,  Observation 30; Vers 1 Scan 676
+LAS> set win
+  WINDOW #1 (low) : 826.4
+  WINDOW #1 (up ) : 1189.8
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.122E-02 area:  6.82     v0:  955.9     width: 86.93
+
+LAS> get 31;p
+I-GET,  Observation 31; Vers 1 Scan 678
+LAS> set win
+  WINDOW #1 (low) : 490.2
+  WINDOW #1 (up ) : 1205.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 8.841E-03 area:  4.48     v0:  894.4     width: 332.1
+
+LAS> get 32;p
+I-GET,  Observation 32; Vers 1 Scan 680
+LAS> set win
+  WINDOW #1 (low) : 535.6
+  WINDOW #1 (up ) : 1155.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.081E-03 area:  4.22     v0:  887.5     width: 194.4
+
+LAS> get 33 ;p
+I-GET,  Observation 33; Vers 1 Scan 684
+LAS> set win
+  WINDOW #1 (low) : 499.3
+  WINDOW #1 (up ) : 1223.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.776E-03 area:  2.18     v0:  850.5     width: 444.8
+
+
+LAS> get 34;p
+I-GET,  Observation 34; Vers 1 Scan 687
+LAS> set win
+  WINDOW #1 (low) : 515.2
+  WINDOW #1 (up ) : 1239.7
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.033E-02 area:  2.47     v0:  183.9     width: 0.000
+
+LAS> get 35;p
+I-GET,  Observation 35; Vers 1 Scan 703
+LAS> set win
+  WINDOW #1 (low) : 594.7
+  WINDOW #1 (up ) : 1173.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.443E-02 area:  4.62     v0:  845.1     width: 328.3
+
+LAS> get 36;p
+I-GET,  Observation 36; Vers 1 Scan 706
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 1180.7
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.284E-02 area:  5.34     v0:  691.6     width: 264.9
+
+LAS> get 37;p
+I-GET,  Observation 37; Vers 1 Scan 708
+LAS> set win  
+  WINDOW #1 (low) : 635.6
+  WINDOW #1 (up ) : 785.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.480E-02 area:  1.44     v0:  721.5     width: 16.84
+
+LAS> get 38;p
+I-GET,  Observation 38; Vers 1 Scan 713
+LAS> set win
+  WINDOW #1 (low) : 572.0
+  WINDOW #1 (up ) : 1187.5
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.718E-02 area:  2.72     v0:  474.7     width: 0.000
+
+LAS> get 39;p
+I-GET,  Observation 39; Vers 1 Scan 716
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 867.3
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.634E-02 area:  1.37     v0:  0.000     width: 0.000
+
+LAS> get 40;p
+I-GET,  Observation 40; Vers 1 Scan 719
+LAS> set win
+  WINDOW #1 (low) : 485.7
+  WINDOW #1 (up ) : 846.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.402E-02 area:  2.70     v0:  611.9     width: 94.32
+
+LAS> get 41;p
+I-GET,  Observation 41; Vers 1 Scan 722
+LAS> set win
+  WINDOW #1 (low) : 601.5
+  WINDOW #1 (up ) : 746.9
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.383E-02 area:  1.61     v0:  0.000     width: 0.000
+
+LAS> get 42;p
+I-GET,  Observation 42; Vers 1 Scan 725
+LAS> set win
+  WINDOW #1 (low) : 497.0
+  WINDOW #1 (up ) : 762.8
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.291E-02 area:  3.83     v0:  626.6     width: 99.00
+
+LAS> get 43;p
+I-GET,  Observation 43; Vers 1 Scan 730
+LAS> set win
+  WINDOW #1 (low) : 506.1
+  WINDOW #1 (up ) : 878.6
+LAS> base 4 /p
+I-POLYNO,  degree:   4 rms: 1.064E-02 area:  3.85     v0:  668.1     width: 169.4
+
+
+LAS> get 44;p
+I-GET,  Observation 44; Vers 1 Scan 733
+LAS> set win
+  WINDOW #1 (low) : 919.5
+  WINDOW #1 (up ) : 1185.2
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.266E-02 area: 0.287     v0:  0.000     width: 0.000
+
+
+LAS> get 45;p
+I-GET,  Observation 45; Vers 1 Scan 736
+LAS> set win
+  WINDOW #1 (low) : 344.9
+  WINDOW #1 (up ) : 810.5
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.281E-02 area:  6.00     v0:  537.0     width: 279.2
+
+
+LAS> get 46;p
+I-GET,  Observation 46; Vers 1 Scan 739
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 1439.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.239E-02 area:  4.46     v0:  902.5     width: 758.5
+
+LAS> get 47
+I-GET,  Observation 47; Vers 1 Scan 742
+LAS> set win
+  WINDOW #1 (low) : 558.4
+  WINDOW #1 (up ) : 819.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.291E-02 area:  1.28     v0:  0.000     width: 0.000
+
+
+LAS> get 48;p
+I-GET,  Observation 48; Vers 1 Scan 756
+LAS> set win
+  WINDOW #1 (low) : 521.0
+  WINDOW #1 (up ) : 1140.6
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 8.095E-03 area:  4.51     v0:  716.1     width: 189.5
+
+LAS> get 49
+I-GET,  Observation 49; Vers 1 Scan 760
+LAS> set win
+  WINDOW #1 (low) : 468.6
+  WINDOW #1 (up ) : 1174.7
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 8.279E-03 area:  7.74     v0:  728.0     width: 248.6
+
+
+LAS> get 50
+I-GET,  Observation 50; Vers 1 Scan 763
+LAS> set win
+  WINDOW #1 (low) : 436.7
+  WINDOW #1 (up ) : 1070.0
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 9.233E-03 area:  4.63     v0:  638.5     width: 0.000
+
+LAS> get 51;p
+I-GET,  Observation 51; Vers 1 Scan 766
+LAS> set win
+  WINDOW #1 (low) : 484.8
+  WINDOW #1 (up ) : 1200.0
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 8.529E-03 area:  1.62     v0:  880.1     width: 525.2
+
+LAS> get 52;p
+I-GET,  Observation 52; Vers 1 Scan 771
+LAS> set win
+  WINDOW #1 (low) : 505.1
+  WINDOW #1 (up ) : 1076.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 8.904E-03 area:  3.34     v0:  734.7     width: 111.7
+
+
+LAS> get 53;p
+I-GET,  Observation 53; Vers 1 Scan 775
+LAS> set win
+  WINDOW #1 (low) : 429.9
+  WINDOW #1 (up ) : 940.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.103E-03 area:  2.70     v0:  664.6     width: 141.1
+
+LAS> get 54;p
+I-GET,  Observation 54; Vers 1 Scan 778
+LAS> set win
+  WINDOW #1 (low) : 559.7
+  WINDOW #1 (up ) : 1181.6
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 7.882E-03 area:  4.83     v0:  878.1     width: 393.2
+
+LAS> get 55;p
+I-GET,  Observation 55; Vers 1 Scan 782
+LAS> set win
+  WINDOW #1 (low) : 477.7
+  WINDOW #1 (up ) : 1022.1
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.025E-02 area:  1.99     v0: 6.7287E+05 width: 0.000
+
+LAS> get 56;p
+I-GET,  Observation 56; Vers 1 Scan 785
+LAS> set win
+  WINDOW #1 (low) : 498.2
+  WINDOW #1 (up ) : 956.1
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 8.817E-03 area:  2.61     v0:  671.4     width: 163.1
+
+LAS> get 57;p
+I-GET,  Observation 57; Vers 1 Scan 789
+LAS> set win
+  WINDOW #1 (low) : 548.3
+  WINDOW #1 (up ) : 1188.4
+LAS> sw;base 3 /p;p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.484E-03 area:  4.02     v0:  880.9     width: 440.5
+
+LAS> get 58;p
+I-GET,  Observation 58; Vers 1 Scan 793
+LAS> set win
+  WINDOW #1 (low) : 404.8
+  WINDOW #1 (up ) : 844.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.328E-03 area:  2.77     v0:  683.1     width: 100.8
+
+LAS> get 59;p
+I-GET,  Observation 59; Vers 1 Scan 796
+LAS> set win
+  WINDOW #1 (low) : 398.1
+  WINDOW #1 (up ) : 1099.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.495E-03 area:  2.66     v0:  641.0     width: 6.118
+
+LAS> get 60
+I-GET,  Observation 60; Vers 1 Scan 800
+LAS> set win
+  WINDOW #1 (low) : 502.8
+  WINDOW #1 (up ) : 1165.6
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.016E-02 area:  7.94     v0:  673.5     width: 218.2
+
+
+LAS> get 61;p
+I-GET,  Observation 61; Vers 1 Scan 805
+LAS> set win
+  WINDOW #1 (low) : 470.9
+  WINDOW #1 (up ) : 1188.4
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.052E-02 area:  4.70     v0:  703.1     width: 405.8
+
+
+LAS> get 62;p
+I-GET,  Observation 62; Vers 1 Scan 820
+LAS> set win
+  WINDOW #1 (low) : 609.9
+  WINDOW #1 (up ) : 1136.1
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 8.983E-03 area:  2.52     v0:  714.7     width: 50.68
+
+LAS> get 63;p
+I-GET,  Observation 63; Vers 1 Scan 824
+LAS> set win
+  WINDOW #1 (low) : 527.8
+  WINDOW #1 (up ) : 1140.6
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.001E-02 area:  4.75     v0:  741.1     width: 226.7
+
+LAS> get 64;p
+I-GET,  Observation 64; Vers 1 Scan 828
+LAS> set win
+  WINDOW #1 (low) : 484.6
+  WINDOW #1 (up ) : 960.6
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 9.353E-03 area:  1.95     v0:  682.3     width: 93.89
+
+LAS> get 65;p
+I-GET,  Observation 65; Vers 1 Scan 832
+LAS> set win
+  WINDOW #1 (low) : 525.6
+  WINDOW #1 (up ) : 1158.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 9.733E-03 area:  3.61     v0:  792.8     width: 417.5
+
+LAS> get 66;p
+I-GET,  Observation 66; Vers 1 Scan 835
+LAS> set win
+  WINDOW #1 (low) : 467.5
+  WINDOW #1 (up ) : 1128.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.108E-02 area:  4.33     v0:  745.3     width: 270.8
+
+LAS> get 67;p
+I-GET,  Observation 67; Vers 1 Scan 839
+LAS> set win
+  WINDOW #1 (low) : 476.6
+  WINDOW #1 (up ) : 1130.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.001E-02 area:  7.07     v0:  809.9     width: 412.1
+
+LAS> get 68;p
+I-GET,  Observation 68; Vers 1 Scan 844
+LAS> set win
+  WINDOW #1 (low) : 569.7
+  WINDOW #1 (up ) : 1153.4
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.029E-02 area:  7.86     v0:  964.8     width: 146.6
+
+LAS> get 69;p
+I-GET,  Observation 69; Vers 1 Scan 848
+LAS> set win
+  WINDOW #1 (low) : 499.3
+  WINDOW #1 (up ) : 1126.2
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.293E-02 area:  14.1     v0:  995.0     width: 115.5
+
+LAS> get 70;p
+I-GET,  Observation 70; Vers 1 Scan 851
+LAS> set win
+  WINDOW #1 (low) : 778.7
+  WINDOW #1 (up ) : 1126.2
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.195E-02 area:  11.8     v0:  970.4     width: 118.6
+
+LAS> get 71;p
+I-GET,  Observation 71; Vers 1 Scan 854
+LAS> set win
+  WINDOW #1 (low) : 828.6
+  WINDOW #1 (up ) : 1137.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.069E-02 area:  16.3     v0:  953.3     width: 144.4
+
+LAS> get 72;p
+I-GET,  Observation 72; Vers 1 Scan 858
+LAS> set win
+  WINDOW #1 (low) : 449.3
+  WINDOW #1 (up ) : 1155.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.105E-02 area:  12.9     v0:  970.7     width: 186.3
+
+LAS> get 73
+I-GET,  Observation 73; Vers 1 Scan 861
+LAS> set win
+  WINDOW #1 (low) : 622.0
+  WINDOW #1 (up ) : 1187.5
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.317E-02 area:  10.4     v0:  945.2     width: 168.9
+
+LAS> get 74;p
+I-GET,  Observation 74; Vers 1 Scan 864
+LAS> set win
+  WINDOW #1 (low) : 676.5
+  WINDOW #1 (up ) : 1148.9
+LAS> sw;base 3 /p
+I-POLYNO,  degree:   3 rms: 1.188E-02 area:  10.5     v0:  940.7     width: 126.1
+
+LAS> get 75;p
+I-GET,  Observation 75; Vers 1 Scan 867
+LAS> set win
+  WINDOW #1 (low) : 796.8
+  WINDOW #1 (up ) : 1130.7
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.152E-02 area:  11.0     v0:  926.9     width: 134.8
+
+LAS> get 76;p
+I-GET,  Observation 76; Vers 1 Scan 871
+LAS> set win
+  WINDOW #1 (low) : 492.5
+  WINDOW #1 (up ) : 1144.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.070E-02 area:  23.8     v0:  892.5     width: 145.4
+
+LAS> get 77;p
+I-GET,  Observation 77; Vers 1 Scan 895
+LAS> set win
+  WINDOW #1 (low) : 403.9
+  WINDOW #1 (up ) : 1051.2
+LAS> base 2 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   2 rms: 1.415E-02 area:  18.8     v0:  815.9     width: 146.9
+
+LAS> get 78;p
+I-GET,  Observation 78; Vers 1 Scan 898
+LAS> set win
+  WINDOW #1 (low) : 469.8
+  WINDOW #1 (up ) : 955.8
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.365E-02 area:  11.9     v0:  768.5     width: 154.4
+
+LAS> get 79;p
+I-GET,  Observation 79; Vers 1 Scan 901
+LAS> set win
+  WINDOW #1 (low) : 576.5
+  WINDOW #1 (up ) : 883.2
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.280E-02 area:  6.91     v0:  721.5     width: 123.3
+
+LAS> get 80;p
+I-GET,  Observation 80; Vers 1 Scan 908
+LAS> set win
+  WINDOW #1 (low) : 558.4
+  WINDOW #1 (up ) : 867.3
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.297E-02 area:  6.63     v0:  729.5     width: 130.8
+
+LAS> get 81;p
+I-GET,  Observation 81; Vers 1 Scan 911
+LAS> set win
+  WINDOW #1 (low) : 497.0
+  WINDOW #1 (up ) : 830.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.256E-02 area:  6.60     v0:  702.1     width: 152.8
+
+LAS> get 82;p
+I-GET,  Observation 82; Vers 1 Scan 914
+LAS> set win
+  WINDOW #1 (low) : 515.2
+  WINDOW #1 (up ) : 894.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.274E-02 area:  11.9     v0:  716.0     width: 132.9
+
+LAS> get 83;p
+I-GET,  Observation 83; Vers 1 Scan 917
+LAS> set win
+  WINDOW #1 (low) : 481.1
+  WINDOW #1 (up ) : 908.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.237E-02 area:  10.4     v0:  697.9     width: 135.9
+
+LAS> get 84;p
+I-GET,  Observation 84; Vers 1 Scan 920
+LAS> set win
+  WINDOW #1 (low) : 572.0
+  WINDOW #1 (up ) : 815.0
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.305E-02 area:  8.55     v0:  701.4     width: 122.0
+
+LAS> get 85;p
+I-GET,  Observation 85; Vers 1 Scan 923
+LAS> set win
+  WINDOW #1 (low) : 585.6
+  WINDOW #1 (up ) : 846.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.319E-02 area:  5.99     v0:  713.8     width: 120.3
+
+LAS> get 86;p
+I-GET,  Observation 86; Vers 1 Scan 930
+LAS> set win
+  WINDOW #1 (low) : 467.5
+  WINDOW #1 (up ) : 1185.2
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.072E-02 area:  8.72     v0:  720.5     width: 250.3
+
+LAS> get 87;p
+I-GET,  Observation 87; Vers 1 Scan 933
+LAS> set win
+  WINDOW #1 (low) : 533.4
+  WINDOW #1 (up ) : 919.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.296E-02 area:  6.32     v0:  693.8     width: 102.9
+
+LAS> get 88;p 
+I-GET,  Observation 88; Vers 1 Scan 937
+LAS> set win
+  WINDOW #1 (low) : 497.0
+  WINDOW #1 (up ) : 840.0
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.338E-02 area:  8.76     v0:  675.3     width: 114.1
+
+LAS> get 89;p
+I-GET,  Observation 89; Vers 1 Scan 940
+LAS> set win
+  WINDOW #1 (low) : 569.7
+  WINDOW #1 (up ) : 828.6
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.303E-02 area:  7.68     v0:  687.5     width: 122.0
+
+LAS> get 90;p
+I-GET,  Observation 90; Vers 1 Scan 943
+LAS> set win
+  WINDOW #1 (low) : 565.2
+  WINDOW #1 (up ) : 901.3
+LAS> sw;base 1 /p
+I-POLYNO,  degree:   1 rms: 1.352E-02 area:  3.86     v0:  718.2     width: 58.62
+
+LAS> get 91;p
+I-GET,  Observation 91; Vers 1 Scan 946
+LAS> set win
+  WINDOW #1 (low) : 460.7
+  WINDOW #1 (up ) : 917.2
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.216E-02 area:  3.94     v0:  693.6     width: 175.5
+
+S> get 92;p
+I-GET,  Observation 92; Vers 1 Scan 955
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 944.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.332E-02 area:  3.67     v0:  678.2     width: 176.2
+
+LAS> get 93;p
+I-GET,  Observation 93; Vers 1 Scan 958
+LAS> set win
+  WINDOW #1 (low) : 562.9
+  WINDOW #1 (up ) : 958.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.287E-02 area:  3.39     v0:  762.6     width: 0.000
+
+
+LAS> get 94;p
+I-GET,  Observation 94; Vers 1 Scan 967
+LAS> set win
+  WINDOW #1 (low) : 503.9
+  WINDOW #1 (up ) : 1196.6
+LAS> base 3 /p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.279E-02 area:  7.42     v0:  771.8     width: 459.1
+
+LAS> get 95;p
+I-GET,  Observation 95; Vers 1 Scan 970
+LAS> set win
+  WINDOW #1 (low) : 460.7
+  WINDOW #1 (up ) : 874.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.234E-02 area:  4.56     v0:  702.7     width: 211.6
+
+LAS> get 96;p
+I-GET,  Observation 96; Vers 1 Scan 973
+LAS> set win
+  WINDOW #1 (low) : 503.9
+  WINDOW #1 (up ) : 787.8
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.163E-02 area:  2.30     v0:  581.8     width: 55.25
+
+LAS> get 97;p
+I-GET,  Observation 97; Vers 1 Scan 976
+LAS> set win
+  WINDOW #1 (low) : 419.8
+  WINDOW #1 (up ) : 876.3
+LAS> sw;base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.215E-02 area:  4.00     v0:  709.4     width: 234.2
+
+LAS> get 98;p
+I-GET,  Observation 98; Vers 1 Scan 979
+LAS> set win
+  WINDOW #1 (low) : 562.9
+  WINDOW #1 (up ) : 1042.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.179E-02 area:  2.77     v0:  789.1     width: 210.8
+
+LAS> get 99;p
+I-GET,  Observation 99; Vers 1 Scan 992
+LAS> set win
+  WINDOW #1 (low) : 478.9
+  WINDOW #1 (up ) : 890.0
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.160E-02 area:  3.83     v0:  610.5     width: 202.0
+
+LAS> get 100;p
+I-GET,  Observation 100; Vers 1 Scan 995
+LAS> set win
+  WINDOW #1 (low) : 601.5
+  WINDOW #1 (up ) : 874.1
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.189E-02 area:  1.91     v0:  631.8     width: 19
+
+LAS> get 101;p
+I-GET,  Observation 101; Vers 1 Scan 998
+LAS> set win
+  WINDOW #1 (low) : 590.2
+  WINDOW #1 (up ) : 880.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.141E-02 area:  2.37     v0:  688.5     width: 50.92
+
+LAS> get 102;p
+I-GET,  Observation 102; Vers 1 Scan 1001
+LAS> set win
+  WINDOW #1 (low) : 522.0
+  WINDOW #1 (up ) : 819.6
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.169E-02 area:  3.10     v0:  706.7     width: 0.000
+
+LAS> get 103;p
+I-GET,  Observation 103; Vers 1 Scan 1004
+LAS> set win
+  WINDOW #1 (low) : 556.1
+  WINDOW #1 (up ) : 921.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.193E-02 area:  3.80     v0:  720.2     width: 224.4
+
+LAS> get 104;p
+I-GET,  Observation 104; Vers 1 Scan 1007
+LAS> set win
+  WINDOW #1 (low) : 572.0
+  WINDOW #1 (up ) : 949.0
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.334E-02 area:  3.69     v0:  727.7     width: 161.3
+
+LAS> get 105;p
+I-GET,  Observation 105; Vers 1 Scan 1012
+LAS> set win
+  WINDOW #1 (low) : 481.1
+  WINDOW #1 (up ) : 1042.1
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.020E-02 area:  6.73     v0:  718.2     width: 204.1
+
+LAS> get 106;p
+I-GET,  Observation 106; Vers 1 Scan 1016
+LAS> set win
+  WINDOW #1 (low) : 494.8
+  WINDOW #1 (up ) : 1183.0
+LAS> sw;base 3 /p;p
+I-POLYNO,  Degree  1 would be even better
+I-POLYNO,  degree:   3 rms: 1.206E-02 area:  9.93     v0:  772.4     width: 231.5
+
+LAS> get 107;p
+I-GET,  Observation 107; Vers 1 Scan 1019
+LAS> set win
+  WINDOW #1 (low) : 508.4
+  WINDOW #1 (up ) : 1024.0
+LAS> base 3 /p
+I-POLYNO,  Degree  2 would be even better
+I-POLYNO,  degree:   3 rms: 1.302E-02 area:  4.11     v0:  784.7     width: 0.000
+
+LAS> get 108;p
+I-GET,  Observation 108; Vers 1 Scan 1023
+LAS> set win
+  WINDOW #1 (low) : 535.6
+  WINDOW #1 (up ) : 946.7
+LAS> base 2 /p
+I-POLYNO,  degree:   2 rms: 1.078E-02 area:  2.59     v0:  721.9     width: 132.1
+
+LAS> get 109;p
+I-GET,  Observation 109; Vers 1 Scan 1039
+LAS> set win
+  WINDOW #1 (low) : 501.6
+  WINDOW #1 (up ) : 830.9
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.159E-02 area:  1.80     v0:  0.000     width: 0.000
+
+LAS> get 110;p
+I-GET,  Observation 110; Vers 1 Scan 1043
+LAS> set win
+  WINDOW #1 (low) : 635.6
+  WINDOW #1 (up ) : 1112.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.142E-02 area:  1.51     v0:  731.4     width: 0.000
+
+LAS> get 111;p
+I-GET,  Observation 111; Vers 1 Scan 1046
+LAS> set win
+  WINDOW #1 (low) : 858.2
+  WINDOW #1 (up ) : 1185.2
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.103E-02 area:  1.97     v0:  999.2     width: 103.1
+
+LAS> get 112;p
+I-GET,  Observation 112; Vers 1 Scan 1051
+LAS> set win
+  WINDOW #1 (low) : 833.2
+  WINDOW #1 (up ) : 1137.5
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.191E-02 area:  6.36     v0:  1013.     width: 86.97
+
+LAS> get 113;p
+I-GET,  Observation 113; Vers 1 Scan 1055
+LAS> set win
+  WINDOW #1 (low) : 865.0
+  WINDOW #1 (up ) : 1114.8
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.265E-02 area:  5.42     v0:  1014.     width: 84.56
+
+LAS> get 114;p
+I-GET,  Observation 114; Vers 1 Scan 1057
+LAS> set win
+  WINDOW #1 (low) : 447.1
+  WINDOW #1 (up ) : 1155.7
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.252E-02 area:  6.19     v0:  858.3     width: 396.0
+
+
+LAS> get 115;p
+I-GET,  Observation 115; Vers 1 Scan 1060
+LAS> set win
+  WINDOW #1 (low) : 583.3
+  WINDOW #1 (up ) : 851.4
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.278E-02 area:  1.68     v0:  710.6     width: 0.000
+
+LAS> get 116;p
+I-GET,  Observation 116; Vers 1 Scan 1065
+LAS> set win
+  WINDOW #1 (low) : 508.4
+  WINDOW #1 (up ) : 899.1
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.300E-02 area:  2.49     v0:  572.8     width: 0.000
+
+LAS> get 117;p
+I-GET,  Observation 117; Vers 1 Scan 1069
+LAS> set win
+  WINDOW #1 (low) : 557.5
+  WINDOW #1 (up ) : 746.6
+LAS> base 1 /p
+I-POLYNO,  degree:   1 rms: 1.344E-02 area:  1.43     v0:  0.000     width: 0.000
+
+LAS> get 118;p
+I-GET,  Observation 118; Vers 1 Scan 1074
+LAS> set win
+  WINDOW #1 (low) : 506.1
+  WINDOW #1 (up ) : 930.9
+LAS> base 3 /p
+I-POLYNO,  degree:   3 rms: 1.643E-02 area:  2.98     v0:  722.3     width: 0.000
+

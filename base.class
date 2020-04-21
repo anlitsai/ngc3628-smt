@@ -1,0 +1,370 @@
+!-------------------------------------------
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+set source *
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBase_ave_base.smt
+find;list 
+ 
+get 01 ; plot
+set win
+ 
+get 02 ; plot
+set win
+ 
+get 03 ; plot
+set win
+ 
+get 04 ; plot
+set win
+ 
+get 05 ; plot
+set win
+ 
+get 06 ; plot
+set win
+ 
+get 07 ; plot
+set win
+ 
+get 08 ; plot
+set win
+ 
+get 09 ; plot
+set win
+ 
+get 10 ; plot
+set win
+ 
+get 11 ; plot
+set win
+ 
+get 12 ; plot
+set win
+ 
+get 13 ; plot
+set win
+ 
+get 14 ; plot
+set win
+ 
+get 15 ; plot
+set win
+ 
+get 16 ; plot
+set win
+ 
+get 17 ; plot
+set win
+ 
+get 18 ; plot
+set win
+ 
+get 19 ; plot
+set win
+ 
+get 20 ; plot
+set win
+ 
+get 21 ; plot
+set win
+ 
+get 22 ; plot
+set win
+ 
+get 23 ; plot
+set win
+ 
+get 24 ; plot
+set win
+ 
+get 25 ; plot
+set win
+ 
+get 26 ; plot
+set win
+ 
+get 27 ; plot
+set win
+ 
+get 28 ; plot
+set win
+ 
+get 29 ; plot
+set win
+ 
+get 30 ; plot
+set win
+ 
+get 31 ; plot
+set win
+ 
+get 32 ; plot
+set win
+ 
+get 33 ; plot
+set win
+ 
+get 34 ; plot
+set win
+ 
+get 35 ; plot
+set win
+ 
+get 36 ; plot
+set win
+ 
+get 37 ; plot
+set win
+ 
+get 38 ; plot
+set win
+ 
+get 39 ; plot
+set win
+ 
+get 40 ; plot
+set win
+ 
+get 41 ; plot
+set win
+ 
+get 42 ; plot
+set win
+ 
+get 43 ; plot
+set win
+ 
+get 44 ; plot
+set win
+ 
+get 45 ; plot
+set win
+ 
+get 46 ; plot
+set win
+ 
+get 47 ; plot
+set win
+ 
+get 48 ; plot
+set win
+ 
+get 49 ; plot
+set win
+ 
+get 50 ; plot
+set win
+ 
+get 51 ; plot
+set win
+ 
+get 52 ; plot
+set win
+ 
+get 53 ; plot
+set win
+ 
+get 54 ; plot
+set win
+ 
+get 55 ; plot
+set win
+ 
+get 56 ; plot
+set win
+ 
+get 57 ; plot
+set win
+ 
+get 58 ; plot
+set win
+ 
+get 59 ; plot
+set win
+ 
+get 60 ; plot
+set win
+ 
+get 61 ; plot
+set win
+ 
+get 62 ; plot
+set win
+ 
+get 63 ; plot
+set win
+ 
+get 64 ; plot
+set win
+ 
+get 65 ; plot
+set win
+ 
+get 66 ; plot
+set win
+ 
+get 67 ; plot
+set win
+ 
+get 68 ; plot
+set win
+ 
+get 69 ; plot
+set win
+ 
+get 70 ; plot
+set win
+ 
+get 71 ; plot
+set win
+ 
+get 72 ; plot
+set win
+ 
+get 73 ; plot
+set win
+ 
+get 74 ; plot
+set win
+ 
+get 75 ; plot
+set win
+ 
+get 76 ; plot
+set win
+ 
+get 77 ; plot
+set win
+ 
+get 78 ; plot
+set win
+ 
+get 79 ; plot
+set win
+ 
+get 80 ; plot
+set win
+ 
+get 81 ; plot
+set win
+ 
+get 82 ; plot
+set win
+ 
+get 83 ; plot
+set win
+ 
+get 84 ; plot
+set win
+ 
+get 85 ; plot
+set win
+ 
+get 86 ; plot
+set win
+ 
+get 87 ; plot
+set win
+ 
+get 88 ; plot
+set win
+ 
+get 89 ; plot
+set win
+ 
+get 90 ; plot
+set win
+ 
+get 91 ; plot
+set win
+ 
+get 92 ; plot
+set win
+ 
+get 93 ; plot
+set win
+ 
+get 94 ; plot
+set win
+ 
+get 95 ; plot
+set win
+ 
+get 96 ; plot
+set win
+ 
+get 97 ; plot
+set win
+ 
+get 98 ; plot
+set win
+ 
+get 99 ; plot
+set win
+ 
+get 100 ; plot
+set win
+ 
+get 101 ; plot
+set win
+ 
+get 102 ; plot
+set win
+ 
+get 103 ; plot
+set win
+ 
+get 104 ; plot
+set win
+ 
+get 105 ; plot
+set win
+ 
+get 106 ; plot
+set win
+ 
+get 107 ; plot
+set win
+ 
+get 108 ; plot
+set win
+ 
+get 109 ; plot
+set win
+ 
+get 110 ; plot
+set win
+ 
+get 111 ; plot
+set win
+ 
+get 112 ; plot
+set win
+ 
+get 113 ; plot
+set win
+ 
+get 114 ; plot
+set win
+ 
+get 115 ; plot
+set win
+ 
+get 116 ; plot
+set win
+ 
+get 117 ; plot
+set win
+ 
+get 118 ; plot
+set win
+ 
+!===========================================
+ 

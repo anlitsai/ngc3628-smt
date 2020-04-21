@@ -1,0 +1,42 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys.smt
+file out n3628_01-118_smt-f1m_dropTsys_dropBad.smt mul
+set source *
+find;list 
+ 
+drop 3617
+drop 8477
+drop 6001
+drop 7305
+drop 7901
+drop 7902
+drop 7926
+drop 8249
+drop 8250
+drop 8262
+drop 8274
+drop 8286
+drop 8298
+drop 8310
+drop 8322
+drop 8334
+list
+ 
+ 
+for i 1 to found
+  get next
+  write
+next
+ 
+!===========================================
+ 

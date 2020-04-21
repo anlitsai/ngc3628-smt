@@ -1,0 +1,85 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set ang sec
+set weight time
+set align f
+set plot histogram
+set unit v f
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_offset.smt
+set source *
+find;list 
+ 
+!-------------------------------------------
+ 
+!
+! modify the reference position and source name 
+!
+ 
+find 
+for i 1 to found
+  get next
+  modify position 11:20:16.984 13:35:20.07  ! ref. pos.
+  modify source N3628
+  write
+next i
+ 
+find 
+consistency
+ 
+!
+! do a map of spectrum 
+!
+ 
+clear all 
+find 
+set unit v f 
+set mode x 100 1500 
+set mode y -0.05 0.15
+map 
+ 
+!
+! do the image map
+!
+ 
+table co21map_v- new /range v ! selection of a range in velocity 
+let map%tele KITTPEAK 
+let map%diam 10 
+let map%beam 32.79 
+xy_map co21map_v-
+ 
+!
+let name co21map_v-
+let type lmv 
+ 
+go view 
+hardcopy xy_map_-.eps /dev eps color 
+ 
+go spectrum 
+hardcopy xy_spectrum_-.eps /dev eps color 
+ 
+go 3view 
+hardcopy pv_map_--1.eps /dev eps color 
+go 3view 
+hardcopy pv_map_--2.eps /dev eps color 
+go 3view 
+hardcopy pv_map_--3.eps /dev eps color 
+go 3view 
+hardcopy pv_map_--4.eps /dev eps color 
+ 
+go bit 
+hardcopy chan_map_-.eps /dev eps color 
+ 
+ 
+find
+fits co21map_v-.fits from co21map_v-.lmv
+ 
+!===========================================
+ 

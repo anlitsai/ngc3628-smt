@@ -1,0 +1,211 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+set source *
+find;list 
+ 
+ 
+for i 1 to found
+  get next
+  write
+next
+ 
+ 
+get 3582 ; draw kill 328 ;draw fill 328 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 3870 ; draw kill 949 ;draw fill 949 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 3870 ; draw kill 958 ;draw fill 958 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4226 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4238 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4282 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4294 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4353 ; draw kill 589 ;draw fill 589 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4366 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4386 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4498 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4522 ; draw kill 949 ;draw fill 949 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4534 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4590 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4646 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4646 ; draw kill 840 ;draw fill 840 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4658 ; draw kill 604 ;draw fill 604 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 4670 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5006 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5030 ; draw kill 793 ;draw fill 793 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5114 ; draw kill 949 ;draw fill 949 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5198 ; draw kill 432 ;draw fill 432 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5234 ; draw kill 926 ;draw fill 926 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8634 ; draw kill 793 ;draw fill 793 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5306 ; draw kill 618 ;draw fill 618 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5330 ; draw kill 635 ;draw fill 635 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5306 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5318 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5330 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5341 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5342 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5353 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5353 ; draw kill 990 ;draw fill 990 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5365 ; draw kill 625 ;draw fill 625 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5365 ; draw kill 990 ;draw fill 990 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8609 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8609 ; draw kill 588 ;draw fill 588 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8609 ; draw kill 990 ;draw fill 990 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5425 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5425 ; draw kill 585 ;draw fill 585 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5425 ; draw kill 670 ;draw fill 670 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5449 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5510 ; draw kill 949 ;draw fill 949 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5557 ; draw kill 416 ;draw fill 416 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5605 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8441 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8441 ; draw kill 665 ;draw fill 665 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5725 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5738 ; draw kill 958 ;draw fill 958 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5749 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5857 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5845 ; draw kill 561 ;draw fill 561 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 5882 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6097 ; draw kill 429 ;draw fill 429 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6134 ; draw kill 893 ;draw fill 893 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6326 ; draw kill 432 ;draw fill 432 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6373 ; draw kill 458 ;draw fill 458 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6385 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6385 ; draw kill 458 ;draw fill 458 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6445 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6825 ; draw kill 231 ;draw fill 231 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 6933 ; draw kill 315 ;draw fill 315 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7018 ; draw kill 548 ;draw fill 548 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7030 ; draw kill 396 ;draw fill 396 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7053 ; draw kill 992 ;draw fill 992 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7066 ; draw kill 654 ;draw fill 654 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7161 ; draw kill 990 ;draw fill 990 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7354 ; draw kill 555 ;draw fill 555 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7425 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7589 ; draw kill 618 ;draw fill 618 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7590 ; draw kill 618 ;draw fill 618 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7674 ; draw kill 552 ;draw fill 552 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7721 ; draw kill 234 ;draw fill 234 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7721 ; draw kill 428 ;draw fill 428 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7721 ; draw kill 588 ;draw fill 588 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7733 ; draw kill 583 ;draw fill 583 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7745 ; draw kill 226 ;draw fill 226 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7745 ; draw kill 234 ;draw fill 234 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7757 ; draw kill 234 ;draw fill 234 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7758 ; draw kill 606 ;draw fill 606 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7770 ; draw kill 480 ;draw fill 480 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7770 ; draw kill 840 ;draw fill 840 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7938 ; draw kill 840 ;draw fill 840 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 7997 ; draw kill 150 ;draw fill 150 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8082 ; draw kill 654 ;draw fill 654 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8105 ; draw kill 94 ;draw fill 94 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8105 ; draw kill 494 ;draw fill 494 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8106 ; draw kill 159 ;draw fill 159 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8106 ; draw kill 654 ;draw fill 654 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8106 ; draw kill 953 ;draw fill 953 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8118 ; draw kill 952 ;draw fill 952 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8154 ; draw kill 396 ;draw fill 396 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+get 8237 ; draw kill 461 ;draw fill 461 ; write 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan.smt
+ 
+!===========================================
+ 

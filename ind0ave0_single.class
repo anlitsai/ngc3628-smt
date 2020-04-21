@@ -1,0 +1,1906 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_modify_width_pltIndx0.smt
+file out n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_modify_width_pltIndx0_ave0.smt mul
+set source *
+find;list 
+ 
+!-------------------------------------------
+ 
+set source n3628-01 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-01.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-01.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-02 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-02.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-02.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-03 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-03.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-03.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-04 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-04.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-04.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-05 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-05.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-05.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-06 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-06.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-06.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-07 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-07.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-07.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-08 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-08.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-08.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-09 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-09.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-09.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-10 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-10.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-10.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-11 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-11.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-11.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-12 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-12.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-12.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-13 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-13.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-13.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-14 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-14.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-14.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-15 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-15.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-15.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-16 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-16.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-16.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-17 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-17.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-17.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-18 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-18.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-18.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-19 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-19.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-19.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-20 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-20.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-20.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-21 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-21.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-21.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-22 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-22.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-22.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-23 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-23.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-23.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-24 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-24.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-24.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-25 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-25.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-25.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-26 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-26.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-26.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-27 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-27.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-27.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-28 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-28.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-28.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-29 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-29.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-29.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-30 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-30.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-30.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-31 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-31.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-31.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-32 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-32.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-32.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-33 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-33.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-33.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-34 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-34.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-34.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-35 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-35.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-35.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-36 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-36.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-36.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-37 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-37.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-37.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-38 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-38.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-38.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-39 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-39.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-39.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-40 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-40.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-40.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-41 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-41.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-41.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-42 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-42.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-42.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-43 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-43.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-43.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-44 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-44.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-44.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-45 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-45.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-45.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-46 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-46.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-46.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-47 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-47.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-47.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-48 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-48.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-48.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-49 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-49.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-49.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-50 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-50.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-50.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-51 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-51.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-51.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-52 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-52.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-52.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-53 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-53.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-53.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-54 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-54.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-54.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-55 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-55.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-55.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-56 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-56.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-56.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-57 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-57.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-57.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-58 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-58.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-58.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-59 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-59.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-59.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-60 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-60.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-60.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-61 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-61.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-61.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-62 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-62.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-62.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-63 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-63.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-63.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-64 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-64.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-64.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-65 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-65.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-65.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-66 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-66.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-66.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-67 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-67.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-67.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-68 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-68.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-68.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-69 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-69.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-69.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-70 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-70.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-70.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-71 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-71.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-71.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-72 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-72.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-72.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-73 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-73.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-73.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-74 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-74.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-74.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-75 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-75.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-75.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-76 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-76.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-76.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-77 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-77.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-77.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-78 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-78.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-78.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-79 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-79.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-79.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-80 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-80.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-80.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-81 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-81.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-81.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-82 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-82.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-82.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-83 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-83.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-83.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-84 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-84.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-84.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-85 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-85.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-85.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-86 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-86.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-86.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-87 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-87.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-87.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-88 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-88.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-88.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-89 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-89.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-89.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-90 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-90.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-90.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-91 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-91.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-91.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-92 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-92.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-92.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-93 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-93.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-93.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-94 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-94.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-94.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-95 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-95.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-95.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-96 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-96.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-96.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-97 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-97.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-97.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-98 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-98.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-98.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-99 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-99.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-99.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-100 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-100.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-100.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-101 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-101.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-101.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-102 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-102.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-102.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-103 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-103.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-103.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-104 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-104.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-104.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-105 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-105.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-105.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-106 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-106.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-106.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-107 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-107.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-107.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-108 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-108.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-108.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-109 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-109.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-109.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-110 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-110.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-110.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-111 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-111.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-111.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-112 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-112.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-112.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-113 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-113.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-113.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-114 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-114.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-114.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-115 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-115.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-115.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-116 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-116.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-116.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-117 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-117.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-117.eps
+write; 
+ 
+!-------------------------------------------
+ 
+set source n3628-118 ;find;
+load
+plot /index
+set win /polygon 1 pol_20170814/win_n3628-118.pol
+  for i 1 to found
+    get next
+    base  0 /pl;plot
+  next
+find;list
+average /resample;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps00/ind0ave0_n3628-118.eps
+write; 
+ 
+!===========================================
+ 

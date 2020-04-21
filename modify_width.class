@@ -1,0 +1,39 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0.smt
+file out n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_modify_width.smt mul
+find;list 
+ 
+!-------------------------------------------
+ 
+set source * 
+set tel SMT-F1M-*L; find;list;
+ 
+ 
+for i 1 to found
+  get next
+  modify width 1.0
+  write
+next
+ 
+!-------------------------------------------
+ 
+set source * 
+set tel SMT-F1M-*U; find;list;
+ 
+ 
+for i 1 to found
+  get next
+  write
+next
+ 
+!-------------------------------------------

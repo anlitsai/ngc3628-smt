@@ -1,0 +1,724 @@
+!-------------------------------------------
+ 
+device image black
+ 
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+ 
+!===========================================
+ 
+file in n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_ave_baseline.smt n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_baseline.smt
+find;list 
+ 
+!-------------------------------------------
+ 
+set source N3628-01; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-02; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-03; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-04; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-05; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-06; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-07; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-08; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-09; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-10; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-11; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-12; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-13; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-14; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-15; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-16; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-17; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-18; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-19; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-20; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-21; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-22; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-23; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-24; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-25; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-26; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-27; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-28; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-29; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-30; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-31; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-32; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-33; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-34; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-35; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-36; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-37; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-38; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-39; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-40; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-41; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-42; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-43; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-44; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-45; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-46; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-47; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-48; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-49; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-50; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-51; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-52; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-53; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-54; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-55; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-56; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-57; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-58; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-59; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-60; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-61; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-62; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-63; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-64; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-65; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-66; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-67; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-68; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-69; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-70; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-71; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-72; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-73; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-74; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-75; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-76; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-77; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-78; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-79; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-80; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-81; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-82; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-83; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-84; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-85; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-86; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-87; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-88; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-89; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-90; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-91; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-92; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-93; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-94; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-95; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-96; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-97; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-98; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-99; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-100; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-101; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-102; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-103; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-104; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-105; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-106; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-107; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-108; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-109; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-110; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-111; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-112; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-113; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-114; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-115; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-116; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-117; find;list;
+set sort source 
+stamp;pop
+ 
+!-------------------------------------------
+ 
+set source N3628-118; find;list;
+set sort source 
+stamp;pop
+ 
+!===========================================
+ 

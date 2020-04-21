@@ -1,0 +1,295 @@
+# smt-1FM
+
+
+
+
+# 12
+3582	bad channel 328
+
+# 13
+3617	polynomial
+
+# 19
+3870	bad channel 949
+3870	bad channel 958
+
+# 22
+3985	Tsys>2300
+3986	Tsys>2400
+3997	Tsys>800
+3998	Tsys>800
+4009	Tsys>900
+4010	Tsys>900
+4129	Tsys>590
+4130	Tsys>600
+4141	Tsys>600
+4142	Tsys>600
+4153	Tsys>500
+4154	Tsys>600
+4213	instrument
+4225	instrum_weak
+4226	bad channel 604
+4238	bad channel 604
+4261	instrument
+
+# 23
+4165	Tsys>600
+4166	Tsys>600
+4177	Tsys>700
+4178	Tsys>700
+4189	Tsys>900
+4190	Tsys>1000
+4281	?
+4282	bad channel 604
+4293	?
+4294	bad channel 604
+4305	?
+
+# 24
+4353	bad channel 589
+4366	bad channel 604
+
+# 25
+4386	bad channel 604
+
+#e 26
+4429	instrument inverse
+4453	instrument
+4465	instrument
+
+# 27
+4498	bad channel 604
+4522	bad channel 949
+4534	bad channel 604
+
+# 28
+4021	Tsys>900
+4022	Tsys>900
+4033	Tsys>900
+4034	Tsys>900
+4045	Tsys>1800
+4046	Tsys>1800
+
+# 29
+4590	bad channel 604
+
+# 31
+4646	bad channel 604
+4646	bad channel 840
+
+# 32
+4658	bad channel 604
+4670	bad channel 552
+
+# 33
+4789	order3 Tsys=413
+4790	Tsys=418
+
+# 34
+4765	order3
+4801	Tsys=441
+4802	order3 Tsys=446
+
+# 40
+5006	bad channel 552
+5030	bad channel 793
+
+# 43
+5114	bad channel 949
+
+# 45
+5198	bad channel 432
+
+# 46
+5234	bad channel 926
+
+# 47
+8634	bad channel 793
+
+# 48
+5221	?
+5245	?
+5306	bad channel 618
+5330	bad channel 635
+
+# 48
+5306	bad channel 552
+5318	bad channel 552
+5330	bad channel 552
+
+# 49
+5341	bad channel 315
+5342	bad channel 552
+5353	bad channel 315
+5353	bad channel 990
+5365	bad channel 625
+5365	bad channel 990
+8609	bad channel 315; step
+8609	bad channel 588
+8609	bad channel 990
+
+# 50
+8597	step
+
+# 51
+5425	bad channel 150
+5425	bad channel 585
+5425	bad channel 670
+5449	bad channel 315
+
+# 52
+5486	order1
+8513	pre-order4
+
+# 53
+5510	bad channel 949
+
+# 54
+5557	bad channel 416
+
+
+# 55
+5605	bad channel 150
+5617	order3
+8477	ripple
+
+# 57
+8441	bad channel 150
+8441	bad channel 665
+
+# 58
+5725	bad channel 150
+5738	bad channel 958
+5749	bad channel 150
+5857	bad channel 150
+
+# 60
+5845	bad channel 561
+
+# 61
+5882	bad channel 552
+
+# 63
+6001	ripple
+
+# 64
+6085	order1
+
+# 65
+6097	bad channel 429
+6134	order3
+
+# 66
+6134	bad channel 893
+
+# 70
+6326	bad channel 432
+
+# 71
+6373	bad channel 458
+6385	bad channel 315
+6385	bad channel 458
+
+# 73
+6445	bad channel 315
+
+# 82
+6825	bad channel 231
+
+# 85
+6933	bad channel 315
+
+# 87
+7018	bad channel 548
+
+# 88
+7030	bad channel 396
+7053	bad channel 992
+7066	bad channel 654
+
+# 91
+7161	bad channel 990
+
+# 93
+7305	polynomial
+
+# 95
+7354	bad channel 555
+
+# 97
+7425	bad channel 150
+
+# 101
+7589	bad channel 618
+7590	bad channel 618
+
+# 103
+7674	bad channel 552
+
+# 105
+7721	bad channel 234
+7721	bad channel 428
+7721	bad channel 588
+7733	bad channel 583
+7745	bad channel 226
+7745	bad channel 234
+7757	bad channel 234
+7758	bad channel 606
+
+# 108
+7770	bad channel 480
+7770	bad channel 840
+7841	pre-order3
+7842	pre-order2
+7901	ripple negative
+7902	ripple negative
+7913	pre-order2
+
+# 109
+7926	ripple
+7938	bad channel 840
+
+# 110
+7997	bad channel 150
+
+# 111
+8009	pre-order3
+8021	order1
+8057	not sure
+
+# 112
+8082	bad channel 654
+
+# 113
+8105	bad channel 94
+8105	bad channel 494
+8106	bad channel 159
+8106	bad channel 654
+8106    bad channel 953
+8118	bad channel 952
+
+# 114
+8154	bad channel 396
+
+# 116
+8237	bad channel 461
+8573	wrong_position
+8562	wrong_position
+8561	wrong_position
+8574	wrong_position
+
+
+# 117
+8249	ripple
+8250	ripple
+8262	ripple
+8274	ripple
+8286	ripple
+8298	ripple
+
+# 118
+8309	pre-order3
+8310	ripple
+8322	ripple
+8334	ripple
+

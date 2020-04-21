@@ -1,0 +1,46 @@
+!-------------------------------------------
+ 
+file in class.smt
+file out n3628_01-118_smt-f1m.smt mul
+find;list 
+ 
+set tel smt-f1m*
+set source N3628*
+find;list
+ 
+find /num 3201 *
+ 
+for i 1 to found
+  get next
+  write
+next
+ 
+file in n3628_01-118_smt-f1m.smt
+set source *
+set tel *
+find;list 
+ 
+!-------------------------------------------
+ 
+file in class.smt
+file out n3628_01-118_smt-fqm.smt mul
+find;list 
+ 
+set tel smt-fqm*
+set source N3628*
+find;list
+ 
+find /num 3201 *
+ 
+for i 1 to found
+  get next
+  write
+next
+ 
+file in n3628_01-118_smt-fqm.smt
+set source *
+set tel *
+find;list 
+ 
+!-------------------------------------------
+ 

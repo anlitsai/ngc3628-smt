@@ -1,0 +1,14 @@
+taskname           = "immoments"
+imagename          =  "aro_smt_co21map"
+moments            =  [0, 1]
+axis               =  "spectral"
+region             =  ""
+box                =  ""
+chans              =  ""
+stokes             =  ""
+mask               =  ""
+includepix         =  -1
+excludepix         =  -1
+outfile            =  ""
+stretch            =  False
+#immoments(imagename="aro_smt_co21map",moments=[0, 1],axis="spectral",region="",box="",chans="",stokes="",mask="",includepix=-1,excludepix=-1,outfile="",stretch=False)

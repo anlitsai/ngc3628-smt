@@ -1,0 +1,9 @@
+! $ class @default
+
+device image black
+
+set format long
+set mod x auto
+set mod y auto
+set unit v f
+

@@ -1,0 +1,65 @@
+2017-08-29 06:24:24	INFO	casa::::	---
+2017-08-29 06:24:24	INFO	casa::::	CASA Version 4.7.38335-REL (r38335)
+2017-08-29 06:24:24	INFO	casa::::	  Tagged on: 2016-09-28 09:02:38 UTC
+2017-08-29 06:25:44	INFO	importfits::utils::verify	Verifying arguments....File existence checking failed for fitsimage 
+2017-08-29 06:25:44	WARN	importfits::utils::verify	Argument fitsimage failed to verify.
+2017-08-29 06:25:44	SEVERE	importfits::::	An error occurred running task importfits.
+2017-08-29 06:26:58	INFO	importfits::::	
+2017-08-29 06:26:58	INFO	importfits::::+	##########################################
+2017-08-29 06:26:58	INFO	importfits::::+	##### Begin Task: importfits         #####
+2017-08-29 06:26:58	INFO	importfits::::	importfits(fitsimage="co21map.fits",imagename="aro_smt_co21map",whichrep=0,whichhdu=-1,zeroblanks=True,
+2017-08-29 06:26:58	INFO	importfits::::+	        overwrite=False,defaultaxes=False,defaultaxesvalues=[],beam=[])
+2017-08-29 06:26:58	INFO	importfits::::ImageFITSConverter	Processing HDU 0
+2017-08-29 06:26:58	WARN	importfits::FITSCoordinateUtil::fromFITSHeader	Note: The GLS projection is deprecated. Use SFL instead.
+2017-08-29 06:26:58	WARN	importfits::FITSCoordinateUtil::fromFITSHeader	Note: The GLS projection is deprecated. Use SFL instead.
+2017-08-29 06:26:58	INFO	importfits::ImageFITSConverterImpl::FITSToImage 	Created image of shape [20, 18, 844, 1]
+2017-08-29 06:26:58	INFO	importfits::ImageFITSConverterImpl::FITSToImage 	Copy FITS file to '/home/altsai/project/20131205.starburst/proposal/20170120.ARO.starburst/observation/smt/data_20170502/aro_smt_co21map' All pixels fit in memory (303840 pixels).
+2017-08-29 06:26:58	INFO	importfits::ImageFITSConverterImpl::FITSToImage 	Storing mask with name 'mask0'
+2017-08-29 06:26:59	INFO	importfits::::	##### End Task: importfits           #####
+2017-08-29 06:26:59	INFO	importfits::::+	##########################################
+2017-08-29 06:28:21	INFO	immoments::::	
+2017-08-29 06:28:21	INFO	immoments::::+	##########################################
+2017-08-29 06:28:21	INFO	immoments::::+	##### Begin Task: immoments          #####
+2017-08-29 06:28:21	INFO	immoments::::	immoments(imagename="aro_smt_co21map",moments=[0, 1],axis="spectral",region="",box="",
+2017-08-29 06:28:21	INFO	immoments::::+	        chans="",stokes="",mask="",includepix=-1,excludepix=-1,
+2017-08-29 06:28:21	INFO	immoments::::+	        outfile="",stretch=False)
+2017-08-29 06:28:22	INFO	immoments::CasacRegionManager::fromBCS	No directional region specified. Using full positional plane.
+2017-08-29 06:28:22	INFO	immoments::CasacRegionManager::fromBCS	Using all spectral channels.
+2017-08-29 06:28:22	INFO	immoments::ImageRegion::fromRecord	Selected bounding box : 
+2017-08-29 06:28:22	INFO	immoments::ImageRegion::fromRecord+	    [0, 0, 0, 0] to [19, 17, 843, 0]  (11:20:26.009, +13.33.32.599, 2.29462e+11Hz, 1 to 11:20:08.599, +13.37.19.722, 2.30307e+11Hz, 1)
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments	
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments+	Moment axis type is Frequency
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments	
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments+	
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments+	***********************************************************************
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments+	You have selected the following methods
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments+	The basic method
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments	Created /home/altsai/project/20131205.starburst/proposal/20170120.ARO.starburst/observation/smt/data_20170502/aro_smt_co21map.integrated
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments	Created /home/altsai/project/20131205.starburst/proposal/20170120.ARO.starburst/observation/smt/data_20170502/aro_smt_co21map.weighted_coord
+2017-08-29 06:28:22	INFO	immoments::ImageMoments::createMoments	Begin computation of moments
+2017-08-29 06:28:23	INFO	immoments::::	##### End Task: immoments            #####
+2017-08-29 06:28:23	INFO	immoments::::+	##########################################
+2017-08-29 06:28:27	INFO	imview::::	
+2017-08-29 06:28:27	INFO	imview::::+	##########################################
+2017-08-29 06:28:27	INFO	imview::::+	##### Begin Task: imview             #####
+2017-08-29 06:28:27	INFO	imview::::	imview(raster={},contour={},zoom=1,axes={},out="")
+2017-08-29 06:28:28	INFO	imview::::	##### End Task: imview               #####
+2017-08-29 06:28:28	INFO	imview::::+	##########################################
+2017-08-29 06:30:33	INFO	exportfits::::	
+2017-08-29 06:30:33	INFO	exportfits::::+	##########################################
+2017-08-29 06:30:33	INFO	exportfits::::+	##### Begin Task: exportfits         #####
+2017-08-29 06:30:33	INFO	exportfits::::	exportfits(imagename="aro_smt_co21map.integrated",fitsimage="co21mom0.fits",velocity=False,optical=False,bitpix=-32,
+2017-08-29 06:30:33	INFO	exportfits::::+	        minpix=0,maxpix=-1,overwrite=False,dropstokes=False,stokeslast=True,
+2017-08-29 06:30:33	INFO	exportfits::::+	        history=True,dropdeg=False)
+2017-08-29 06:30:33	INFO	exportfits::ImageFactory::toFITS	Applying mask of name 'mask0'
+2017-08-29 06:30:33	INFO	exportfits::::	##### End Task: exportfits           #####
+2017-08-29 06:30:33	INFO	exportfits::::+	##########################################
+2017-08-29 06:31:13	INFO	exportfits::::	
+2017-08-29 06:31:13	INFO	exportfits::::+	##########################################
+2017-08-29 06:31:13	INFO	exportfits::::+	##### Begin Task: exportfits         #####
+2017-08-29 06:31:13	INFO	exportfits::::	exportfits(imagename="aro_smt_co21map.weighted_coord",fitsimage="co21mom1.fits",velocity=False,optical=False,bitpix=-32,
+2017-08-29 06:31:13	INFO	exportfits::::+	        minpix=0,maxpix=-1,overwrite=False,dropstokes=False,stokeslast=True,
+2017-08-29 06:31:13	INFO	exportfits::::+	        history=True,dropdeg=False)
+2017-08-29 06:31:13	INFO	exportfits::ImageFactory::toFITS	Applying mask of name 'mask0'
+2017-08-29 06:31:13	INFO	exportfits::::	##### End Task: exportfits           #####
+2017-08-29 06:31:13	INFO	exportfits::::+	##########################################

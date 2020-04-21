@@ -1,0 +1,1911 @@
+!-------------------------------------------
+ 
+set format brief
+set mod x auto
+set mod y auto
+set unit v f
+ 
+set source *
+ 
+!===========================================
+ 
+file both n3628_01-118_smt-f1m_dropTsys_dropBad_killChan_base0_preBase_ave_base.smt
+find;list 
+pen /c 0 /w 4 /das 1
+greg1\set character 1 
+ 
+ 
+get 01 ; plot
+set win 592.4 1073.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-01.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-01.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-01.eps
+ 
+get 02 ; plot
+set win 567.4 1053.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-02.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-02.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-02.eps
+ 
+get 03 ; plot
+set win 503.9 994.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-03.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-03.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-03.eps
+ 
+get 04 ; plot
+set win 569.7 903.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-04.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-04.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-04.eps
+ 
+get 05 ; plot
+set win 528.8 987.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-05.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-05.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-05.eps
+ 
+get 06 ; plot
+set win 483.4 1071.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-06.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-06.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-06.eps
+ 
+get 07 ; plot
+set win 610.6 1087.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-07.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-07.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-07.eps
+ 
+get 08 ; plot
+set win 547.0 1121.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-08.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-08.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-08.eps
+ 
+get 09 ; plot
+set win 617.4 1287.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-09.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-09.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-09.eps
+ 
+get 10 ; plot
+set win 590.2 1121.6
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-10.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-10.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-10.eps
+ 
+get 11 ; plot
+set win 787.8 1137.5
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-11.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-11.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-11.eps
+ 
+get 12 ; plot
+set win 701.5 1173.9
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-12.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-12.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-12.eps
+ 
+get 13 ; plot
+set win 592.4 1153.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-13.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-13.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-13.eps
+ 
+get 14 ; plot
+set win 610.6 1139.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-14.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-14.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-14.eps
+ 
+get 15 ; plot
+set win 476.6 1148.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-15.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-15.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-15.eps
+ 
+get 16 ; plot
+set win 562.9 1098.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-16.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-16.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-16.eps
+ 
+get 17 ; plot
+set win 510.7 983.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-17.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-17.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-17.eps
+ 
+get 18 ; plot
+set win 465.2 1298.8
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-18.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-18.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-18.eps
+ 
+get 19 ; plot
+set win 585.6 894.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-19.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-19.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-19.eps
+ 
+get 20 ; plot
+set win 488.0 871.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-20.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-20.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-20.eps
+ 
+get 21 ; plot
+set win 556.1 805.9
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-21.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-21.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-21.eps
+ 
+get 22 ; plot
+set win 290.4 858.2
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-22.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-22.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-22.eps
+ 
+get 23 ; plot
+set win 499.3 867.3
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-23.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-23.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-23.eps
+ 
+get 24 ; plot
+set win 512.9 962.6
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-24.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-24.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-24.eps
+ 
+get 25 ; plot
+set win 497.0 1069.4
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-25.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-25.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-25.eps
+ 
+get 26 ; plot
+set win 283.5 1203.4
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-26.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-26.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-26.eps
+ 
+get 27 ; plot
+set win 617.4 1142.1
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-27.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-27.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-27.eps
+ 
+get 28 ; plot
+set win 701.5 1194.3
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-28.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-28.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-28.eps
+ 
+get 29 ; plot
+set win 801.4 1173.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-29.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-29.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-29.eps
+ 
+get 30 ; plot
+set win 826.4 1189.8
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-30.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-30.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-30.eps
+ 
+get 31 ; plot
+set win 490.2 1205.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-31.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-31.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-31.eps
+ 
+get 32 ; plot
+set win 535.6 1155.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-32.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-32.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-32.eps
+ 
+get 33 ; plot
+set win 499.3 1223.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-33.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-33.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-33.eps
+ 
+get 34 ; plot
+set win 515.2 1239.7
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-34.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-34.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-34.eps
+ 
+get 35 ; plot
+set win 594.7 1173.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-35.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-35.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-35.eps
+ 
+get 36 ; plot
+set win 501.6 1180.7
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-36.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-36.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-36.eps
+ 
+get 37 ; plot
+set win 635.6 785.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-37.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-37.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-37.eps
+ 
+get 38 ; plot
+set win 572.0 1187.5
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-38.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-38.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-38.eps
+ 
+get 39 ; plot
+set win 501.6 867.3
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-39.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-39.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-39.eps
+ 
+get 40 ; plot
+set win 485.7 846.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-40.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-40.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-40.eps
+ 
+get 41 ; plot
+set win 601.5 746.9
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-41.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-41.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-41.eps
+ 
+get 42 ; plot
+set win 497.0 762.8
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-42.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-42.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-42.eps
+ 
+get 43 ; plot
+set win 506.1 878.6
+base 4 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-43.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-43.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-43.eps
+ 
+get 44 ; plot
+set win 919.5 1185.2
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-44.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-44.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-44.eps
+ 
+get 45 ; plot
+set win 344.9 810.5
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-45.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-45.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-45.eps
+ 
+get 46 ; plot
+set win 501.6 1439.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-46.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-46.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-46.eps
+ 
+get 47 ; plot
+set win 558.4 819.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-47.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-47.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-47.eps
+ 
+get 48 ; plot
+set win 521.0 1140.6
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-48.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-48.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-48.eps
+ 
+get 49 ; plot
+set win 468.6 1174.7
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-49.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-49.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-49.eps
+ 
+get 50 ; plot
+set win 436.7 1070.0
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-50.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-50.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-50.eps
+ 
+get 51 ; plot
+set win 484.8 1200.0
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-51.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-51.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-51.eps
+ 
+get 52 ; plot
+set win 505.1 1076.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-52.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-52.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-52.eps
+ 
+get 53 ; plot
+set win 429.9 940.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-53.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-53.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-53.eps
+ 
+get 54 ; plot
+set win 559.7 1181.6
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-54.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-54.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-54.eps
+ 
+get 55 ; plot
+set win 477.7 1022.1
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-55.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-55.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-55.eps
+ 
+get 56 ; plot
+set win 498.2 956.1
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-56.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-56.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-56.eps
+ 
+get 57 ; plot
+set win 548.3 1188.4
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-57.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-57.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-57.eps
+ 
+get 58 ; plot
+set win 404.8 844.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-58.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-58.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-58.eps
+ 
+get 59 ; plot
+set win 398.1 1099.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-59.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-59.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-59.eps
+ 
+get 60 ; plot
+set win 502.8 1165.6
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-60.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-60.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-60.eps
+ 
+get 61 ; plot
+set win 470.9 1188.4
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-61.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-61.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-61.eps
+ 
+get 62 ; plot
+set win 609.9 1136.1
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-62.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-62.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-62.eps
+ 
+get 63 ; plot
+set win 527.8 1140.6
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-63.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-63.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-63.eps
+ 
+get 64 ; plot
+set win 484.6 960.6
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-64.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-64.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-64.eps
+ 
+get 65 ; plot
+set win 525.6 1158.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-65.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-65.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-65.eps
+ 
+get 66 ; plot
+set win 467.5 1128.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-66.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-66.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-66.eps
+ 
+get 67 ; plot
+set win 476.6 1130.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-67.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-67.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-67.eps
+ 
+get 68 ; plot
+set win 569.7 1153.4
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-68.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-68.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-68.eps
+ 
+get 69 ; plot
+set win 499.3 1126.2
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-69.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-69.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-69.eps
+ 
+get 70 ; plot
+set win 778.7 1126.2
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-70.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-70.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-70.eps
+ 
+get 71 ; plot
+set win 828.6 1137.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-71.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-71.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-71.eps
+ 
+get 72 ; plot
+set win 449.3 1155.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-72.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-72.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-72.eps
+ 
+get 73 ; plot
+set win 622.0 1187.5
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-73.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-73.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-73.eps
+ 
+get 74 ; plot
+set win 676.5 1148.9
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-74.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-74.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-74.eps
+ 
+get 75 ; plot
+set win 796.8 1130.7
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-75.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-75.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-75.eps
+ 
+get 76 ; plot
+set win 492.5 1144.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-76.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-76.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-76.eps
+ 
+get 77 ; plot
+set win 403.9 1051.2
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-77.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-77.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-77.eps
+ 
+get 78 ; plot
+set win 469.8 955.8
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-78.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-78.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-78.eps
+ 
+get 79 ; plot
+set win 576.5 883.2
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-79.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-79.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-79.eps
+ 
+get 80 ; plot
+set win 558.4 867.3
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-80.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-80.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-80.eps
+ 
+get 81 ; plot
+set win 497.0 830.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-81.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-81.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-81.eps
+ 
+get 82 ; plot
+set win 515.2 894.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-82.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-82.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-82.eps
+ 
+get 83 ; plot
+set win 481.1 908.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-83.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-83.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-83.eps
+ 
+get 84 ; plot
+set win 572.0 815.0
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-84.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-84.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-84.eps
+ 
+get 85 ; plot
+set win 585.6 846.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-85.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-85.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-85.eps
+ 
+get 86 ; plot
+set win 467.5 1185.2
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-86.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-86.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-86.eps
+ 
+get 87 ; plot
+set win 533.4 919.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-87.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-87.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-87.eps
+ 
+get 88 ; plot
+set win 497.0 840.0
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-88.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-88.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-88.eps
+ 
+get 89 ; plot
+set win 569.7 828.6
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-89.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-89.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-89.eps
+ 
+get 90 ; plot
+set win 565.2 901.3
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-90.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-90.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-90.eps
+ 
+get 91 ; plot
+set win 460.7 917.2
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-91.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-91.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-91.eps
+ 
+get 92 ; plot
+set win 501.6 944.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-92.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-92.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-92.eps
+ 
+get 93 ; plot
+set win 562.9 958.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-93.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-93.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-93.eps
+ 
+get 94 ; plot
+set win 503.9 1196.6
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-94.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-94.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-94.eps
+ 
+get 95 ; plot
+set win 460.7 874.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-95.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-95.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-95.eps
+ 
+get 96 ; plot
+set win 503.9 787.8
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-96.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-96.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-96.eps
+ 
+get 97 ; plot
+set win 419.8 876.3
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-97.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-97.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-97.eps
+ 
+get 98 ; plot
+set win 562.9 1042.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-98.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-98.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-98.eps
+ 
+get 99 ; plot
+set win 478.9 890.0
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-99.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-99.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-99.eps
+ 
+get 100 ; plot
+set win 601.5 874.1
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-100.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-100.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-100.eps
+ 
+get 101 ; plot
+set win 590.2 880.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-101.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-101.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-101.eps
+ 
+get 102 ; plot
+set win 522.0 819.6
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-102.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-102.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-102.eps
+ 
+get 103 ; plot
+set win 556.1 921.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-103.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-103.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-103.eps
+ 
+get 104 ; plot
+set win 572.0 949.0
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-104.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-104.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-104.eps
+ 
+get 105 ; plot
+set win 481.1 1042.1
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-105.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-105.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-105.eps
+ 
+get 106 ; plot
+set win 494.8 1183.0
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-106.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-106.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-106.eps
+ 
+get 107 ; plot
+set win 508.4 1024.0
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-107.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-107.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-107.eps
+ 
+get 108 ; plot
+set win 535.6 946.7
+base 2 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-108.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-108.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-108.eps
+ 
+get 109 ; plot
+set win 501.6 830.9
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-109.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-109.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-109.eps
+ 
+get 110 ; plot
+set win 635.6 1112.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-110.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-110.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-110.eps
+ 
+get 111 ; plot
+set win 858.2 1185.2
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-111.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-111.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-111.eps
+ 
+get 112 ; plot
+set win 833.2 1137.5
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-112.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-112.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-112.eps
+ 
+get 113 ; plot
+set win 865.0 1114.8
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-113.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-113.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-113.eps
+ 
+get 114 ; plot
+set win 447.1 1155.7
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-114.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-114.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-114.eps
+ 
+get 115 ; plot
+set win 583.3 851.4
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-115.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-115.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-115.eps
+ 
+get 116 ; plot
+set win 508.4 899.1
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-116.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-116.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-116.eps
+ 
+get 117 ; plot
+set win 557.5 746.6
+base 1 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-117.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-117.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-117.eps
+ 
+get 118 ; plot
+set win 506.1 930.9
+base 3 /p; p; w;
+ 
+ 
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_20171117/co21_ave_n3628-118.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm1_20171117/co21_ave_sm1_n3628-118.eps
+ 
+smooth;plot
+draw molecule 230537.990 " CO(2-1) ->"
+hardcopy ps_ave_sm2_20171117/co21_ave_sm2_n3628-118.eps
+ 
+!===========================================
+pen /def
+greg1\set character 0.6 
+set format long 
+plot 
+ 
